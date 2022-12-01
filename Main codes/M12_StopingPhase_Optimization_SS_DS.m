@@ -42,9 +42,9 @@ global robot
 
 % Parameters
 % ---------------------------------------------------------
-Biped_param_previous_DS_Phase = SSParamComRob_ZMPx_var();
-Biped_param_SS_StoppingPhase = SS_bipedo_StoppingSS();
-Biped_param_DS_StoppingPhase = SS_bipedo_StoppingDS();
+Biped_param_previous_DS_Phase = Param01_2DBiped_PeriodicGait_ZMP0();
+Biped_param_SS_StoppingPhase = Param01_2DBiped_StoppingSS();
+Biped_param_DS_StoppingPhase = Param01_2DBiped_StoppingDS();
 %   
 global gait_parameters_previous_DS gait_parameters_SS_Stopping gait_parameters_DS_Stopping
 gait_parameters_previous_DS = Biped_param_previous_DS_Phase.gait_parameters;

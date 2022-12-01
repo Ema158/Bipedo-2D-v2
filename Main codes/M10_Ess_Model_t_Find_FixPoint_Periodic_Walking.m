@@ -43,7 +43,7 @@ global gait_parameters
 % ---------------------------------------------------------
 % Nao_param = Param00_ZMPx_var();
 % Nao_param = SSParam09d_ZMPx_var_v2();
-Bipedo_param = SSParamComRob_ZMPx_var();
+Bipedo_param = Param01_2DBiped_PeriodicGait_ZMP0();
 % Nao_param = SSParam12_ZMPx_var();
 % Nao_param = SSParam11_ZMPx_var_salto_b();
 % Nao_param = SSParam13_ZMPx_var_Internal_State_x_prueba_t();

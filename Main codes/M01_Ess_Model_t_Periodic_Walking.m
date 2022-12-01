@@ -29,7 +29,7 @@ global gait_parameters
 global robot 
 % Parameters
 % ---------------------------------------------------------
-Biped_param = SSParamComRob_ZMPx_var();
+Biped_param = Param01_2DBiped_PeriodicGait_ZMP0();
 % ---------------------------------------------------------
 gait_parameters = Biped_param.gait_parameters;
 T = gait_parameters.T;
@@ -48,7 +48,7 @@ OptionContVar = Biped_param.ControlledVariableOption;
 
 % GENERAL OPTIONS
 % ----------------------------------------------------
-DataName = 'InfoBiped_Param_t_10prueba3';
+DataName = 'InfoBiped_Param01_PeriodicGait';
 Animation = true;  % Do you want to show the animation?
 n = 8; % number of SAMPLES for each step of the animation
 LineWidth = 2;  % For plots and animation
@@ -60,7 +60,6 @@ framerate = (n/T)/3; % with n/T the real time duration of the video will be T, t
 N = 4; % number of steps
 % Initial support for the first step
 SupportFootX = 0;
-SupportFootY = 0;
 ZMPd = cell(1,N+1);
 
 % Final conditions for the step 0
@@ -113,24 +112,8 @@ gait_parameters.transition = false;
 PolyCoeff = Coeff_DesiredTrajectories_t_ver2(robot,gait_parameters);
 gait_parameters.PolyCoeff = PolyCoeff;
 
-% OPTION - For plotting of the evolution of the CoM in "PEvents.m" file (while the solver is working on the dynamics)
-% ===========================================================================================================
-% % If we do not want to plot anything we can uncomment these lines:
-% global contC  
-% global Stop   % 1-> If we want to pause the simulationn each time "PEvents" is executed
-% contC = 1;    % It is used to create a vector that stores all the point of the CoM each time "PEvents" is executed
-% Stop = 0;     % 1-> Each time  "PEvents" is executed the simulation will stop and it will wait until you press a key to continue
-% % NOTE If we want that the solver shows who many iterations have been performed we must define "contB"
 global DisplayIterNumber  % To show how many iteration have been performed by the solver 
 DisplayIterNumber = 1;
-% global contA  % To create one figure each time a cycle is carried out (this variable is more useful be inside "Cycle" function)
-% contA = 1;
-% % -----------------------------------------------------
-% figure(100)
-% robot_draw(robot,0,0);
-% axis equal
-% % pause;
-% % ====================================================================
 
 %% Continue...
 omega = sqrt(g/z0); % the units are:  sqrt((m/s^2)/m) = 1/s

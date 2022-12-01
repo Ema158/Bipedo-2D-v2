@@ -1,4 +1,4 @@
-function   Biped_param = SS_bipedo_StoppingSS()
+function   Biped_param = Param01_2DBiped_StoppingSS()
 
 % Parameters for a walking gait base on TIME:
 %% Gait parameters 
@@ -7,10 +7,9 @@ T = 0.5;         % Time step
 S = 0.05;         % Step length 0.1
 a_z = 0;      % Maximum amplitude oscillation of the CoM
 H_ffoot = 0.02;  % Foot maximum hight 
-% v_foot_f = -0.1; % Final landing velocity of the free foot;
 v_foot_f = 0; % Final landing velocity of the free foot;
 
-z0 = 0.10;       % hight of the CoM 0.27
+z0 = 0.105;       % hight of the CoM 
 g = 9.81;        % acceleration of gravity
 % --------------
 % Torso
@@ -27,8 +26,8 @@ T_midCoMz=T/2;
 T1 = 0; % This two times are used to build the trajectory of the ZMP and are used in "dynm_HZD.m" 
 T2 = T; % So the trayectory will be fixed from 0 to T1, then the motion will be from T1 to T2 and then fixed from T2 to T 
 ZMPxIni =  0;      % Local position of the desired ZMP in X for each step
-ZMPxMid =  -0.006038523579359;      % Local position of the desired ZMP in X for each step
-ZMPxEnd =  0.001769957857284;
+ZMPxMid =  -0.004668154469157;      % Local position of the desired ZMP in X for each step
+ZMPxEnd =  0.001368622110737;
 Pos = [T1 ZMPxIni; 
        T/2 ZMPxMid;
        T2 ZMPxEnd];

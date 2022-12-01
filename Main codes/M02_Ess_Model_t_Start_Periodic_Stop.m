@@ -11,7 +11,7 @@ cd(currentfolder);   % return to the original path
 tic;  % Starting of counting the elapsed time of this function.
 % GENERAL OPTIONS
 % ----------------------------------------------------
-DataName = 'InfBiped_StartingPhase_Gait_SS_StoppingPhase';
+DataName = 'InfBiped_Param01_Start_Gait_SS_Stop';
 % ----------------------------------------------------
 diary(['- Bipedlog-',DataName,'.txt']) % Create a .txt file to store all display information
 diary on % Start the recording of the log file
@@ -25,12 +25,12 @@ global robot
 % Parameters
 % ---------------------------------------------------------
 %
-Biped_param_DS = SS_bipedo_StartingDS();
-Biped_param_SS = SS_bipedo_StartingSS();
-Biped_param_DS_final = SS_bipedo_StartingDS_final();
-Biped_param_gait = SSParamComRob_ZMPx_var();
-Biped_param_Stop_SS = SS_bipedo_StoppingSS();
-Biped_param_Stop_DS = SS_bipedo_StoppingDS();
+Biped_param_DS = Param01_2DBiped_StartingDS();
+Biped_param_SS = Param01_2DBiped_StartingSS();
+Biped_param_DS_final = Param01_2DBiped_StartingDS_final();
+Biped_param_gait = Param01_2DBiped_PeriodicGait_ZMP0();
+Biped_param_Stop_SS = Param01_2DBiped_StoppingSS();
+Biped_param_Stop_DS = Param01_2DBiped_StoppingDS();
 % ---------------------------------------------------------
 global gait_parameters_SS gait_parameters_DS gait_parameters_DS_final gait_parameters_gait_SS 
 global gait_parameters_SS_Stopping gait_parameters_DS_Stopping

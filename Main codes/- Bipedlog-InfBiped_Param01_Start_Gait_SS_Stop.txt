@@ -1,0 +1,2151 @@
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+{Undefined function or variable 'Param01_2DBiped_StoppingSS'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 32)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',32,0)">line 32</a>)
+Biped_param_Stop_SS = Param01_2DBiped_StoppingSS();
+} 
+opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',32,0)
+M02_Ess_Model_t_Start_Periodic_Stop
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+{Undefined function or variable 'Param01_2DBiped_StoppingSS'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 32)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',32,0)">line 32</a>)
+Biped_param_Stop_SS = Param01_2DBiped_StoppingSS();
+} 
+opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',32,0)
+M02_Ess_Model_t_Start_Periodic_Stop
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+{Undefined function or variable 'Param01_2Biped_StoppingSS'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 32)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',32,0)">line 32</a>)
+Biped_param_Stop_SS = Param01_2Biped_StoppingSS();
+} 
+opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',32,0)
+M02_Ess_Model_t_Start_Periodic_Stop
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+All masses distributed (as it should be), i.e. alphaM = 1.000000
+DS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = 0.000000,  CoM_xp = 0.000000
+Foot hight = 0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.000000,  CoM_xp = -0.000078
+Foot hight = 0.000000
+Iteration: 14, t = 0.006000, CoM_x = -0.000001,  CoM_xp = -0.000470
+Foot hight = -0.000000
+Iteration: 20, t = 0.023509, CoM_x = -0.000022,  CoM_xp = -0.001851
+Foot hight = 0.000000
+Iteration: 26, t = 0.041003, CoM_x = -0.000066,  CoM_xp = -0.003262
+Foot hight = -0.000000
+Iteration: 32, t = 0.058471, CoM_x = -0.000136,  CoM_xp = -0.004727
+Foot hight = -0.000000
+Iteration: 38, t = 0.075852, CoM_x = -0.000231,  CoM_xp = -0.006265
+Foot hight = 0.000000
+Iteration: 44, t = 0.093091, CoM_x = -0.000353,  CoM_xp = -0.007895
+Foot hight = -0.000000
+Iteration: 50, t = 0.110138, CoM_x = -0.000503,  CoM_xp = -0.009638
+Foot hight = 0.000000
+Iteration: 56, t = 0.126951, CoM_x = -0.000680,  CoM_xp = -0.011512
+Foot hight = 0.000000
+Iteration: 62, t = 0.143969, CoM_x = -0.000893,  CoM_xp = -0.013597
+Foot hight = -0.000000
+Iteration: 68, t = 0.161254, CoM_x = -0.001148,  CoM_xp = -0.015945
+Foot hight = -0.000000
+Iteration: 74, t = 0.178751, CoM_x = -0.001450,  CoM_xp = -0.018600
+Foot hight = -0.000000
+Iteration: 80, t = 0.196411, CoM_x = -0.001805,  CoM_xp = -0.021611
+Foot hight = -0.000000
+Iteration: 86, t = 0.200000, CoM_x = -0.001883,  CoM_xp = -0.022269
+Foot hight = -0.000000
+SS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = -0.001883,  CoM_xp = -0.022269
+Foot hight = -0.000000
+Iteration: 8, t = 0.000777, CoM_x = -0.001900,  CoM_xp = -0.021564
+Foot hight = 0.000001
+Iteration: 14, t = 0.004664, CoM_x = -0.001978,  CoM_xp = -0.018143
+Foot hight = 0.000027
+Iteration: 20, t = 0.016858, CoM_x = -0.002138,  CoM_xp = -0.008468
+Foot hight = 0.000340
+Iteration: 26, t = 0.028330, CoM_x = -0.002189,  CoM_xp = -0.000639
+Foot hight = 0.000914
+Iteration: 32, t = 0.038670, CoM_x = -0.002164,  CoM_xp = 0.005520
+Foot hight = 0.001629
+Iteration: 38, t = 0.049186, CoM_x = -0.002076,  CoM_xp = 0.011023
+Foot hight = 0.002517
+Iteration: 44, t = 0.060058, CoM_x = -0.001928,  CoM_xp = 0.015996
+Foot hight = 0.003574
+Iteration: 50, t = 0.071964, CoM_x = -0.001709,  CoM_xp = 0.020686
+Foot hight = 0.004858
+Iteration: 56, t = 0.084754, CoM_x = -0.001417,  CoM_xp = 0.024905
+Foot hight = 0.006342
+Iteration: 62, t = 0.098465, CoM_x = -0.001050,  CoM_xp = 0.028514
+Foot hight = 0.008003
+Iteration: 68, t = 0.113388, CoM_x = -0.000601,  CoM_xp = 0.031343
+Foot hight = 0.009839
+Iteration: 74, t = 0.129025, CoM_x = -0.000097,  CoM_xp = 0.032994
+Foot hight = 0.011730
+Iteration: 80, t = 0.145255, CoM_x = 0.000442,  CoM_xp = 0.033154
+Foot hight = 0.013595
+Iteration: 86, t = 0.162356, CoM_x = 0.000998,  CoM_xp = 0.031502
+Foot hight = 0.015386
+Iteration: 92, t = 0.178754, CoM_x = 0.001490,  CoM_xp = 0.028190
+Foot hight = 0.016883
+Iteration: 98, t = 0.196690, CoM_x = 0.001950,  CoM_xp = 0.022887
+Foot hight = 0.018223
+Iteration: 104, t = 0.216264, CoM_x = 0.002329,  CoM_xp = 0.015680
+Foot hight = 0.019278
+Iteration: 110, t = 0.234214, CoM_x = 0.002546,  CoM_xp = 0.008434
+Foot hight = 0.019841
+Iteration: 116, t = 0.249411, CoM_x = 0.002627,  CoM_xp = 0.002279
+Foot hight = 0.020000
+Iteration: 122, t = 0.262036, CoM_x = 0.002625,  CoM_xp = -0.002610
+Foot hight = 0.019907
+Iteration: 128, t = 0.273998, CoM_x = 0.002567,  CoM_xp = -0.006917
+Foot hight = 0.019633
+Iteration: 134, t = 0.285539, CoM_x = 0.002466,  CoM_xp = -0.010684
+Foot hight = 0.019200
+Iteration: 140, t = 0.296925, CoM_x = 0.002325,  CoM_xp = -0.013963
+Foot hight = 0.018616
+Iteration: 146, t = 0.308737, CoM_x = 0.002142,  CoM_xp = -0.016857
+Foot hight = 0.017853
+Iteration: 152, t = 0.320926, CoM_x = 0.001921,  CoM_xp = -0.019264
+Foot hight = 0.016910
+Iteration: 158, t = 0.333521, CoM_x = 0.001667,  CoM_xp = -0.021098
+Foot hight = 0.015785
+Iteration: 164, t = 0.346604, CoM_x = 0.001382,  CoM_xp = -0.022262
+Foot hight = 0.014473
+Iteration: 170, t = 0.360310, CoM_x = 0.001073,  CoM_xp = -0.022624
+Foot hight = 0.012970
+Iteration: 176, t = 0.374866, CoM_x = 0.000747,  CoM_xp = -0.021981
+Foot hight = 0.011266
+Iteration: 182, t = 0.390796, CoM_x = 0.000412,  CoM_xp = -0.019951
+Foot hight = 0.009325
+Iteration: 188, t = 0.406633, CoM_x = 0.000122,  CoM_xp = -0.016409
+Foot hight = 0.007380
+Iteration: 194, t = 0.422332, CoM_x = -0.000098,  CoM_xp = -0.011214
+Foot hight = 0.005509
+Iteration: 200, t = 0.437768, CoM_x = -0.000219,  CoM_xp = -0.004250
+Foot hight = 0.003800
+Iteration: 206, t = 0.451682, CoM_x = -0.000225,  CoM_xp = 0.003828
+Foot hight = 0.002439
+Iteration: 212, t = 0.464542, CoM_x = -0.000118,  CoM_xp = 0.013045
+Foot hight = 0.001389
+Iteration: 218, t = 0.476968, CoM_x = 0.000109,  CoM_xp = 0.023813
+Foot hight = 0.000618
+Iteration: 224, t = 0.489490, CoM_x = 0.000486,  CoM_xp = 0.036859
+Foot hight = 0.000136
+Iteration: 230, t = 0.500000, CoM_x = 0.000940,  CoM_xp = 0.049832
+Foot hight = 0.000000
+DS phase (final)
+--------------------------
+Iteration: 231, t = 0.000000, CoM_x = 0.000940,  CoM_xp = 0.049832
+Foot hight = 0.000000
+Iteration: 237, t = 0.001000, CoM_x = 0.000990,  CoM_xp = 0.049989
+Foot hight = -0.000000
+Iteration: 243, t = 0.006000, CoM_x = 0.001242,  CoM_xp = 0.050820
+Foot hight = -0.000000
+Iteration: 249, t = 0.023342, CoM_x = 0.002152,  CoM_xp = 0.054314
+Foot hight = 0.000000
+Iteration: 255, t = 0.040951, CoM_x = 0.003147,  CoM_xp = 0.058884
+Foot hight = 0.000000
+Iteration: 261, t = 0.058193, CoM_x = 0.004209,  CoM_xp = 0.064432
+Foot hight = -0.000000
+Iteration: 267, t = 0.075169, CoM_x = 0.005357,  CoM_xp = 0.071019
+Foot hight = -0.000000
+Iteration: 273, t = 0.091973, CoM_x = 0.006613,  CoM_xp = 0.078731
+Foot hight = 0.000000
+Iteration: 279, t = 0.108669, CoM_x = 0.008001,  CoM_xp = 0.087666
+Foot hight = -0.000000
+Iteration: 285, t = 0.125302, CoM_x = 0.009542,  CoM_xp = 0.097923
+Foot hight = -0.000000
+Iteration: 291, t = 0.141908, CoM_x = 0.011263,  CoM_xp = 0.109593
+Foot hight = 0.000000
+Iteration: 297, t = 0.158522, CoM_x = 0.013191,  CoM_xp = 0.122750
+Foot hight = 0.000000
+Iteration: 303, t = 0.175191, CoM_x = 0.015358,  CoM_xp = 0.137437
+Foot hight = 0.000000
+Iteration: 309, t = 0.192012, CoM_x = 0.017804,  CoM_xp = 0.153675
+Foot hight = -0.000000
+Iteration: 315, t = 0.200000, CoM_x = 0.019064,  CoM_xp = 0.161827
+Foot hight = -0.000000
+Gait phase
+--------------------------
+The linear velocity of the free foot before impact is:
+ xp = -0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 2.220446e-16
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 2.220446e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.030936,  CoM_xp = 0.161827
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.030774,  CoM_xp = 0.161435
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029972,  CoM_xp = 0.159403
+Foot hight = 0.000045
+Iteration: 20, t = 0.022530, CoM_x = -0.027397,  CoM_xp = 0.152099
+Foot hight = 0.000593
+Iteration: 26, t = 0.040035, CoM_x = -0.024805,  CoM_xp = 0.143943
+Foot hight = 0.001736
+Iteration: 32, t = 0.059597, CoM_x = -0.022078,  CoM_xp = 0.134988
+Foot hight = 0.003527
+Iteration: 38, t = 0.080153, CoM_x = -0.019394,  CoM_xp = 0.126290
+Foot hight = 0.005798
+Iteration: 44, t = 0.101427, CoM_x = -0.016793,  CoM_xp = 0.118410
+Foot hight = 0.008367
+Iteration: 50, t = 0.122918, CoM_x = -0.014323,  CoM_xp = 0.111678
+Foot hight = 0.010999
+Iteration: 56, t = 0.143451, CoM_x = -0.012088,  CoM_xp = 0.106088
+Foot hight = 0.013394
+Iteration: 62, t = 0.161880, CoM_x = -0.010178,  CoM_xp = 0.101146
+Foot hight = 0.015339
+Iteration: 68, t = 0.178289, CoM_x = -0.008558,  CoM_xp = 0.096113
+Foot hight = 0.016844
+Iteration: 74, t = 0.193443, CoM_x = -0.007144,  CoM_xp = 0.090355
+Foot hight = 0.018005
+Iteration: 80, t = 0.208220, CoM_x = -0.005859,  CoM_xp = 0.083359
+Foot hight = 0.018898
+Iteration: 86, t = 0.223448, CoM_x = -0.004654,  CoM_xp = 0.074666
+Foot hight = 0.019551
+Iteration: 92, t = 0.239022, CoM_x = -0.003568,  CoM_xp = 0.064555
+Foot hight = 0.019923
+Iteration: 98, t = 0.258957, CoM_x = -0.002418,  CoM_xp = 0.050857
+Foot hight = 0.019949
+Iteration: 104, t = 0.276398, CoM_x = -0.001633,  CoM_xp = 0.039295
+Foot hight = 0.019556
+Iteration: 110, t = 0.292813, CoM_x = -0.001070,  CoM_xp = 0.029555
+Foot hight = 0.018844
+Iteration: 116, t = 0.308592, CoM_x = -0.000668,  CoM_xp = 0.021641
+Foot hight = 0.017863
+Iteration: 122, t = 0.322050, CoM_x = -0.000415,  CoM_xp = 0.016150
+Foot hight = 0.016816
+Iteration: 128, t = 0.334261, CoM_x = -0.000243,  CoM_xp = 0.012201
+Foot hight = 0.015714
+Iteration: 134, t = 0.345765, CoM_x = -0.000119,  CoM_xp = 0.009374
+Foot hight = 0.014561
+Iteration: 140, t = 0.356845, CoM_x = -0.000027,  CoM_xp = 0.007462
+Foot hight = 0.013361
+Iteration: 146, t = 0.367859, CoM_x = 0.000049,  CoM_xp = 0.006340
+Foot hight = 0.012098
+Iteration: 152, t = 0.379430, CoM_x = 0.000119,  CoM_xp = 0.005997
+Foot hight = 0.010715
+Iteration: 158, t = 0.391866, CoM_x = 0.000196,  CoM_xp = 0.006592
+Foot hight = 0.009193
+Iteration: 164, t = 0.405862, CoM_x = 0.000300,  CoM_xp = 0.008490
+Foot hight = 0.007474
+Iteration: 170, t = 0.421805, CoM_x = 0.000464,  CoM_xp = 0.012308
+Foot hight = 0.005570
+Iteration: 176, t = 0.437797, CoM_x = 0.000704,  CoM_xp = 0.018031
+Foot hight = 0.003797
+Iteration: 182, t = 0.453341, CoM_x = 0.001040,  CoM_xp = 0.025587
+Foot hight = 0.002291
+Iteration: 188, t = 0.467889, CoM_x = 0.001476,  CoM_xp = 0.034689
+Foot hight = 0.001156
+Iteration: 194, t = 0.481446, CoM_x = 0.002015,  CoM_xp = 0.045292
+Foot hight = 0.000409
+Iteration: 200, t = 0.494486, CoM_x = 0.002685,  CoM_xp = 0.057903
+Foot hight = 0.000038
+Iteration: 206, t = 0.500000, CoM_x = 0.003021,  CoM_xp = 0.064097
+Foot hight = 0.000000
+Step 1 of 3
+Initial ZMP position in X: 0.000
+Final ZMP position in X: 0.000
+Initial states: [x0 xp0] = [0.019064,0.161827]
+Final states: [xf xpf] = [0.003021,0.064097]
+-------------------------------------------
+The linear velocity of the free foot before impact is:
+ xp = 0.000000 
+ zp = -0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 3.828951e-12
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 2.220446e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.046979,  CoM_xp = 0.064097
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.046915,  CoM_xp = 0.062299
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.046627,  CoM_xp = 0.053178
+Foot hight = 0.000045
+Iteration: 20, t = 0.016754, CoM_x = -0.046163,  CoM_xp = 0.032853
+Foot hight = 0.000336
+Iteration: 26, t = 0.027426, CoM_x = -0.045924,  CoM_xp = 0.011758
+Foot hight = 0.000860
+Iteration: 32, t = 0.037274, CoM_x = -0.045908,  CoM_xp = -0.008555
+Foot hight = 0.001523
+Iteration: 38, t = 0.045458, CoM_x = -0.046049,  CoM_xp = -0.026135
+Foot hight = 0.002186
+Iteration: 44, t = 0.055302, CoM_x = -0.046415,  CoM_xp = -0.048290
+Foot hight = 0.003097
+Iteration: 50, t = 0.067240, CoM_x = -0.047161,  CoM_xp = -0.077108
+Foot hight = 0.004335
+Iteration: 56, t = 0.080898, CoM_x = -0.048459,  CoM_xp = -0.113862
+Foot hight = 0.005885
+Iteration: 68, t = 0.090144, CoM_x = -0.049640,  CoM_xp = -0.142113
+Foot hight = 0.006989
+Iteration: 74, t = 0.099390, CoM_x = -0.051099,  CoM_xp = -0.174332
+Foot hight = 0.008117
+Iteration: 80, t = 0.107377, CoM_x = -0.052618,  CoM_xp = -0.206696
+Foot hight = 0.009100
+Iteration: 86, t = 0.114122, CoM_x = -0.054117,  CoM_xp = -0.238772
+Foot hight = 0.009929
+Iteration: 92, t = 0.119833, CoM_x = -0.055570,  CoM_xp = -0.270992
+Foot hight = 0.010626
+Iteration: 98, t = 0.124656, CoM_x = -0.056953,  CoM_xp = -0.303756
+Foot hight = 0.011209
+Iteration: 104, t = 0.128699, CoM_x = -0.058247,  CoM_xp = -0.337486
+Foot hight = 0.011692
+Iteration: 110, t = 0.132057, CoM_x = -0.059437,  CoM_xp = -0.372706
+Foot hight = 0.012088
+Iteration: 116, t = 0.134819, CoM_x = -0.060516,  CoM_xp = -0.410106
+Foot hight = 0.012410
+Iteration: 122, t = 0.137070, CoM_x = -0.061482,  CoM_xp = -0.450609
+Foot hight = 0.012671
+Iteration: 128, t = 0.138889, CoM_x = -0.062341,  CoM_xp = -0.495481
+Foot hight = 0.012879
+Iteration: 134, t = 0.140351, CoM_x = -0.063100,  CoM_xp = -0.546570
+Foot hight = 0.013045
+Iteration: 140, t = 0.141520, CoM_x = -0.063772,  CoM_xp = -0.606938
+Foot hight = 0.013178
+Iteration: 146, t = 0.142466, CoM_x = -0.064379,  CoM_xp = -0.683072
+Foot hight = 0.013284
+Iteration: 158, t = 0.142947, CoM_x = -0.064721,  CoM_xp = -0.741436
+Foot hight = 0.013338
+Iteration: 164, t = 0.143427, CoM_x = -0.065096,  CoM_xp = -0.828090
+Foot hight = 0.013391
+Iteration: 176, t = 0.143652, CoM_x = -0.065289,  CoM_xp = -0.887179
+Foot hight = 0.013417
+Iteration: 182, t = 0.143878, CoM_x = -0.065498,  CoM_xp = -0.968753
+Foot hight = 0.013442
+Iteration: 194, t = 0.144022, CoM_x = -0.065642,  CoM_xp = -1.041231
+Foot hight = 0.013458
+Iteration: 200, t = 0.144166, CoM_x = -0.065799,  CoM_xp = -1.142634
+Foot hight = 0.013474
+Iteration: 212, t = 0.144255, CoM_x = -0.065905,  CoM_xp = -1.231072
+Foot hight = 0.013484
+Iteration: 218, t = 0.144345, CoM_x = -0.066020,  CoM_xp = -1.355692
+Foot hight = 0.013494
+Iteration: 230, t = 0.144398, CoM_x = -0.066095,  CoM_xp = -1.460505
+Foot hight = 0.013500
+Iteration: 236, t = 0.144451, CoM_x = -0.066177,  CoM_xp = -1.607254
+Foot hight = 0.013506
+Iteration: 248, t = 0.144483, CoM_x = -0.066230,  CoM_xp = -1.731021
+Foot hight = 0.013509
+Iteration: 254, t = 0.144516, CoM_x = -0.066288,  CoM_xp = -1.903122
+Foot hight = 0.013513
+Iteration: 266, t = 0.144535, CoM_x = -0.066327,  CoM_xp = -2.049089
+Foot hight = 0.013515
+Iteration: 272, t = 0.144555, CoM_x = -0.066369,  CoM_xp = -2.250859
+Foot hight = 0.013517
+Iteration: 284, t = 0.144567, CoM_x = -0.066397,  CoM_xp = -2.422987
+Foot hight = 0.013518
+Iteration: 290, t = 0.144579, CoM_x = -0.066428,  CoM_xp = -2.659803
+Foot hight = 0.013520
+Iteration: 302, t = 0.144586, CoM_x = -0.066449,  CoM_xp = -2.862763
+Foot hight = 0.013521
+Iteration: 308, t = 0.144594, CoM_x = -0.066471,  CoM_xp = -3.140983
+Foot hight = 0.013521
+Iteration: 320, t = 0.144599, CoM_x = -0.066487,  CoM_xp = -3.380275
+Foot hight = 0.013522
+Iteration: 326, t = 0.144603, CoM_x = -0.066503,  CoM_xp = -3.707384
+Foot hight = 0.013522
+Iteration: 338, t = 0.144606, CoM_x = -0.066515,  CoM_xp = -3.989486
+Foot hight = 0.013523
+Iteration: 344, t = 0.144609, CoM_x = -0.066527,  CoM_xp = -4.374291
+Foot hight = 0.013523
+Iteration: 356, t = 0.144611, CoM_x = -0.066536,  CoM_xp = -4.706830
+Foot hight = 0.013523
+Iteration: 362, t = 0.144613, CoM_x = -0.066545,  CoM_xp = -5.159697
+Foot hight = 0.013523
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OptionDesiredTrajectory', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Modifiable programs\Polynoms\OptionDesiredTrajectory.m', 43)" style="font-weight:bold">OptionDesiredTrajectory</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Modifiable programs\Polynoms\OptionDesiredTrajectory.m',43,0)">line 43</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Desired_qfpp_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\Desired_qfpp_HZDtime.m', 29)" style="font-weight:bold">Desired_qfpp_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\Desired_qfpp_HZDtime.m',29,0)">line 29</a>)
+OptionDesiredTrajectory;
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dynam_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\dynam_HZDtime.m', 68)" style="font-weight:bold">dynam_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\dynam_HZDtime.m',68,0)">line 68</a>)
+    [qfpp, ~, ~, ~, ~, ~] = Desired_qfpp_HZDtime(ZMPd,robot,[qf;qfp],gait_parameters,t);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\funfun\ode45.m', 264)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\funfun\ode45.m',264,0)">line 264</a>)
+    f(:,5) = feval(odeFcn,t+hA(4),y+f*hB(:,4),odeArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m', 98)" style="font-weight:bold">robot_step_EssModel_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m',98,0)">line 98</a>)
+[t,Xt] = ode45(@dynam_HZDtime,0:1e-3:T,X0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_Start_DS_SS_DS_gait_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m', 111)" style="font-weight:bold">robot_step_EssModel_Start_DS_SS_DS_gait_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m',111,0)">line 111</a>)
+    [t{j},X0,Xt{j}] = robot_step_EssModel_t(X_final); % "robot" and "gait_parameters"
+    structures are needed inside
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 139)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',139,0)">line 139</a>)
+    robot_step_EssModel_Start_DS_SS_DS_gait_t(gait_parameters_SS,gait_parameters_DS,gait_parameters_DS_final,gait_parameters_gait_SS,Nstep);} 
+M11_StartingPhase_Optimization_DS_SS_DS
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+All masses distributed (as it should be), i.e. alphaM = 1.000000
+DS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = 0.000000,  CoM_xp = 0.000000
+Foot hight = 0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.000000,  CoM_xp = -0.000075
+Foot hight = -0.000000
+Iteration: 14, t = 0.006000, CoM_x = -0.000001,  CoM_xp = -0.000448
+Foot hight = 0.000000
+Iteration: 20, t = 0.023904, CoM_x = -0.000021,  CoM_xp = -0.001792
+Foot hight = -0.000000
+Iteration: 26, t = 0.041797, CoM_x = -0.000066,  CoM_xp = -0.003167
+Foot hight = -0.000000
+Iteration: 32, t = 0.059662, CoM_x = -0.000135,  CoM_xp = -0.004594
+Foot hight = 0.000000
+Iteration: 38, t = 0.077438, CoM_x = -0.000230,  CoM_xp = -0.006094
+Foot hight = -0.000000
+Iteration: 44, t = 0.095068, CoM_x = -0.000351,  CoM_xp = -0.007685
+Foot hight = 0.000000
+Iteration: 50, t = 0.112500, CoM_x = -0.000500,  CoM_xp = -0.009386
+Foot hight = -0.000000
+Iteration: 56, t = 0.129691, CoM_x = -0.000676,  CoM_xp = -0.011217
+Foot hight = 0.000000
+Iteration: 62, t = 0.147000, CoM_x = -0.000888,  CoM_xp = -0.013244
+Foot hight = -0.000000
+Iteration: 68, t = 0.164577, CoM_x = -0.001140,  CoM_xp = -0.015527
+Foot hight = -0.000000
+Iteration: 74, t = 0.182371, CoM_x = -0.001439,  CoM_xp = -0.018107
+Foot hight = 0.000000
+Iteration: 80, t = 0.200000, CoM_x = -0.001783,  CoM_xp = -0.020977
+Foot hight = 0.000000
+SS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = -0.001783,  CoM_xp = -0.020977
+Foot hight = 0.000000
+Iteration: 8, t = 0.000824, CoM_x = -0.001800,  CoM_xp = -0.020313
+Foot hight = 0.000001
+Iteration: 14, t = 0.004942, CoM_x = -0.001877,  CoM_xp = -0.017096
+Foot hight = 0.000031
+Iteration: 20, t = 0.017459, CoM_x = -0.002035,  CoM_xp = -0.008309
+Foot hight = 0.000363
+Iteration: 26, t = 0.029292, CoM_x = -0.002090,  CoM_xp = -0.001198
+Foot hight = 0.000973
+Iteration: 32, t = 0.040115, CoM_x = -0.002072,  CoM_xp = 0.004437
+Foot hight = 0.001743
+Iteration: 38, t = 0.051152, CoM_x = -0.001994,  CoM_xp = 0.009439
+Foot hight = 0.002699
+Iteration: 44, t = 0.062386, CoM_x = -0.001863,  CoM_xp = 0.013841
+Foot hight = 0.003816
+Iteration: 50, t = 0.074632, CoM_x = -0.001668,  CoM_xp = 0.017922
+Foot hight = 0.005160
+Iteration: 56, t = 0.087863, CoM_x = -0.001406,  CoM_xp = 0.021548
+Foot hight = 0.006714
+Iteration: 62, t = 0.102128, CoM_x = -0.001076,  CoM_xp = 0.024578
+Foot hight = 0.008454
+Iteration: 68, t = 0.117728, CoM_x = -0.000673,  CoM_xp = 0.026840
+Foot hight = 0.010370
+Iteration: 74, t = 0.134224, CoM_x = -0.000219,  CoM_xp = 0.027979
+Foot hight = 0.012341
+Iteration: 80, t = 0.151331, CoM_x = 0.000259,  CoM_xp = 0.027710
+Foot hight = 0.014255
+Iteration: 86, t = 0.169552, CoM_x = 0.000749,  CoM_xp = 0.025733
+Foot hight = 0.016072
+Iteration: 92, t = 0.186534, CoM_x = 0.001159,  CoM_xp = 0.022365
+Foot hight = 0.017505
+Iteration: 98, t = 0.203524, CoM_x = 0.001501,  CoM_xp = 0.017710
+Foot hight = 0.018641
+Iteration: 104, t = 0.221454, CoM_x = 0.001767,  CoM_xp = 0.011772
+Foot hight = 0.019482
+Iteration: 110, t = 0.240580, CoM_x = 0.001926,  CoM_xp = 0.004835
+Foot hight = 0.019943
+Iteration: 116, t = 0.258121, CoM_x = 0.001955,  CoM_xp = -0.001534
+Foot hight = 0.019958
+Iteration: 122, t = 0.272795, CoM_x = 0.001895,  CoM_xp = -0.006530
+Foot hight = 0.019669
+Iteration: 128, t = 0.285889, CoM_x = 0.001783,  CoM_xp = -0.010549
+Foot hight = 0.019184
+Iteration: 134, t = 0.298288, CoM_x = 0.001631,  CoM_xp = -0.013866
+Foot hight = 0.018536
+Iteration: 140, t = 0.310909, CoM_x = 0.001437,  CoM_xp = -0.016677
+Foot hight = 0.017696
+Iteration: 146, t = 0.323766, CoM_x = 0.001208,  CoM_xp = -0.018898
+Foot hight = 0.016669
+Iteration: 152, t = 0.336922, CoM_x = 0.000948,  CoM_xp = -0.020452
+Foot hight = 0.015457
+Iteration: 158, t = 0.350486, CoM_x = 0.000665,  CoM_xp = -0.021244
+Foot hight = 0.014060
+Iteration: 164, t = 0.364627, CoM_x = 0.000364,  CoM_xp = -0.021138
+Foot hight = 0.012475
+Iteration: 170, t = 0.379676, CoM_x = 0.000053,  CoM_xp = -0.019899
+Foot hight = 0.010686
+Iteration: 176, t = 0.395897, CoM_x = -0.000249,  CoM_xp = -0.017141
+Foot hight = 0.008697
+Iteration: 182, t = 0.412061, CoM_x = -0.000493,  CoM_xp = -0.012763
+Foot hight = 0.006723
+Iteration: 188, t = 0.428154, CoM_x = -0.000651,  CoM_xp = -0.006591
+Foot hight = 0.004845
+Iteration: 194, t = 0.443108, CoM_x = -0.000696,  CoM_xp = 0.000970
+Foot hight = 0.003254
+Iteration: 200, t = 0.458080, CoM_x = -0.000612,  CoM_xp = 0.010553
+Foot hight = 0.001888
+Iteration: 206, t = 0.472352, CoM_x = -0.000384,  CoM_xp = 0.021879
+Foot hight = 0.000873
+Iteration: 212, t = 0.485796, CoM_x = -0.000005,  CoM_xp = 0.034911
+Foot hight = 0.000244
+Iteration: 218, t = 0.498057, CoM_x = 0.000509,  CoM_xp = 0.049262
+Foot hight = 0.000005
+Iteration: 224, t = 0.500000, CoM_x = 0.000607,  CoM_xp = 0.051787
+Foot hight = 0.000000
+DS phase (final)
+--------------------------
+Iteration: 225, t = 0.000000, CoM_x = 0.000607,  CoM_xp = 0.051787
+Foot hight = 0.000000
+Iteration: 231, t = 0.001000, CoM_x = 0.000659,  CoM_xp = 0.051956
+Foot hight = -0.000000
+Iteration: 237, t = 0.006000, CoM_x = 0.000921,  CoM_xp = 0.052842
+Foot hight = 0.000000
+Iteration: 243, t = 0.023564, CoM_x = 0.001880,  CoM_xp = 0.056539
+Foot hight = 0.000000
+Iteration: 249, t = 0.041444, CoM_x = 0.002932,  CoM_xp = 0.061290
+Foot hight = -0.000000
+Iteration: 255, t = 0.059043, CoM_x = 0.004059,  CoM_xp = 0.067018
+Foot hight = -0.000000
+Iteration: 261, t = 0.076430, CoM_x = 0.005282,  CoM_xp = 0.073791
+Foot hight = 0.000000
+Iteration: 267, t = 0.093679, CoM_x = 0.006621,  CoM_xp = 0.081703
+Foot hight = 0.000000
+Iteration: 273, t = 0.110845, CoM_x = 0.008100,  CoM_xp = 0.090857
+Foot hight = -0.000000
+Iteration: 279, t = 0.127968, CoM_x = 0.009744,  CoM_xp = 0.101359
+Foot hight = -0.000000
+Iteration: 285, t = 0.145081, CoM_x = 0.011578,  CoM_xp = 0.113311
+Foot hight = 0.000000
+Iteration: 291, t = 0.162216, CoM_x = 0.013633,  CoM_xp = 0.126798
+Foot hight = -0.000000
+Iteration: 297, t = 0.179422, CoM_x = 0.015943,  CoM_xp = 0.141878
+Foot hight = 0.000000
+Iteration: 303, t = 0.196786, CoM_x = 0.018549,  CoM_xp = 0.158584
+Foot hight = 0.000000
+Iteration: 309, t = 0.200000, CoM_x = 0.019064,  CoM_xp = 0.161827
+Foot hight = 0.000000
+Gait phase
+--------------------------
+The linear velocity of the free foot before impact is:
+ xp = -0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 7.785439e-15
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 8.881784e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.030936,  CoM_xp = 0.161827
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.030774,  CoM_xp = 0.161435
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029972,  CoM_xp = 0.159403
+Foot hight = 0.000045
+Iteration: 20, t = 0.022530, CoM_x = -0.027397,  CoM_xp = 0.152099
+Foot hight = 0.000593
+Iteration: 26, t = 0.040035, CoM_x = -0.024805,  CoM_xp = 0.143943
+Foot hight = 0.001736
+Iteration: 32, t = 0.059597, CoM_x = -0.022078,  CoM_xp = 0.134988
+Foot hight = 0.003527
+Iteration: 38, t = 0.080153, CoM_x = -0.019394,  CoM_xp = 0.126290
+Foot hight = 0.005798
+Iteration: 44, t = 0.101427, CoM_x = -0.016793,  CoM_xp = 0.118410
+Foot hight = 0.008367
+Iteration: 50, t = 0.122918, CoM_x = -0.014323,  CoM_xp = 0.111678
+Foot hight = 0.010999
+Iteration: 56, t = 0.143451, CoM_x = -0.012088,  CoM_xp = 0.106088
+Foot hight = 0.013394
+Iteration: 62, t = 0.161880, CoM_x = -0.010178,  CoM_xp = 0.101146
+Foot hight = 0.015339
+Iteration: 68, t = 0.178289, CoM_x = -0.008558,  CoM_xp = 0.096113
+Foot hight = 0.016844
+Iteration: 74, t = 0.193443, CoM_x = -0.007144,  CoM_xp = 0.090355
+Foot hight = 0.018005
+Iteration: 80, t = 0.208220, CoM_x = -0.005859,  CoM_xp = 0.083359
+Foot hight = 0.018898
+Iteration: 86, t = 0.223448, CoM_x = -0.004654,  CoM_xp = 0.074666
+Foot hight = 0.019551
+Iteration: 92, t = 0.239022, CoM_x = -0.003568,  CoM_xp = 0.064555
+Foot hight = 0.019923
+Iteration: 98, t = 0.258957, CoM_x = -0.002418,  CoM_xp = 0.050857
+Foot hight = 0.019949
+Iteration: 104, t = 0.276398, CoM_x = -0.001633,  CoM_xp = 0.039295
+Foot hight = 0.019556
+Iteration: 110, t = 0.292813, CoM_x = -0.001070,  CoM_xp = 0.029555
+Foot hight = 0.018844
+Iteration: 116, t = 0.308592, CoM_x = -0.000668,  CoM_xp = 0.021641
+Foot hight = 0.017863
+Iteration: 122, t = 0.322050, CoM_x = -0.000415,  CoM_xp = 0.016150
+Foot hight = 0.016816
+Iteration: 128, t = 0.334261, CoM_x = -0.000243,  CoM_xp = 0.012201
+Foot hight = 0.015714
+Iteration: 134, t = 0.345765, CoM_x = -0.000119,  CoM_xp = 0.009374
+Foot hight = 0.014561
+Iteration: 140, t = 0.356845, CoM_x = -0.000027,  CoM_xp = 0.007462
+Foot hight = 0.013361
+Iteration: 146, t = 0.367859, CoM_x = 0.000049,  CoM_xp = 0.006340
+Foot hight = 0.012098
+Iteration: 152, t = 0.379430, CoM_x = 0.000119,  CoM_xp = 0.005997
+Foot hight = 0.010715
+Iteration: 158, t = 0.391866, CoM_x = 0.000196,  CoM_xp = 0.006592
+Foot hight = 0.009193
+Iteration: 164, t = 0.405862, CoM_x = 0.000300,  CoM_xp = 0.008490
+Foot hight = 0.007474
+Iteration: 170, t = 0.421805, CoM_x = 0.000464,  CoM_xp = 0.012308
+Foot hight = 0.005570
+Iteration: 176, t = 0.437797, CoM_x = 0.000704,  CoM_xp = 0.018031
+Foot hight = 0.003797
+Iteration: 182, t = 0.453341, CoM_x = 0.001040,  CoM_xp = 0.025587
+Foot hight = 0.002291
+Iteration: 188, t = 0.467889, CoM_x = 0.001476,  CoM_xp = 0.034689
+Foot hight = 0.001156
+Iteration: 194, t = 0.481446, CoM_x = 0.002015,  CoM_xp = 0.045292
+Foot hight = 0.000409
+Iteration: 200, t = 0.494486, CoM_x = 0.002685,  CoM_xp = 0.057903
+Foot hight = 0.000038
+Iteration: 206, t = 0.500000, CoM_x = 0.003021,  CoM_xp = 0.064097
+Foot hight = 0.000000
+Step 1 of 3
+Initial ZMP position in X: 0.000
+Final ZMP position in X: 0.000
+Initial states: [x0 xp0] = [0.019064,0.161827]
+Final states: [xf xpf] = [0.003021,0.064097]
+-------------------------------------------
+The linear velocity of the free foot before impact is:
+ xp = 0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 3.828951e-12
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 4.328761e-17 
+Iteration: 2, t = 0.000000, CoM_x = -0.046979,  CoM_xp = 0.064097
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.046915,  CoM_xp = 0.062299
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.046627,  CoM_xp = 0.053178
+Foot hight = 0.000045
+Iteration: 20, t = 0.016754, CoM_x = -0.046163,  CoM_xp = 0.032853
+Foot hight = 0.000336
+Iteration: 26, t = 0.027426, CoM_x = -0.045924,  CoM_xp = 0.011758
+Foot hight = 0.000860
+Iteration: 32, t = 0.037274, CoM_x = -0.045908,  CoM_xp = -0.008555
+Foot hight = 0.001523
+Iteration: 38, t = 0.045458, CoM_x = -0.046049,  CoM_xp = -0.026135
+Foot hight = 0.002186
+Iteration: 44, t = 0.055302, CoM_x = -0.046415,  CoM_xp = -0.048290
+Foot hight = 0.003097
+Iteration: 50, t = 0.067240, CoM_x = -0.047161,  CoM_xp = -0.077108
+Foot hight = 0.004335
+Iteration: 56, t = 0.080898, CoM_x = -0.048459,  CoM_xp = -0.113862
+Foot hight = 0.005885
+Iteration: 68, t = 0.090144, CoM_x = -0.049640,  CoM_xp = -0.142113
+Foot hight = 0.006989
+Iteration: 74, t = 0.099390, CoM_x = -0.051099,  CoM_xp = -0.174332
+Foot hight = 0.008117
+Iteration: 80, t = 0.107377, CoM_x = -0.052618,  CoM_xp = -0.206696
+Foot hight = 0.009100
+Iteration: 86, t = 0.114122, CoM_x = -0.054117,  CoM_xp = -0.238772
+Foot hight = 0.009929
+Iteration: 92, t = 0.119833, CoM_x = -0.055570,  CoM_xp = -0.270992
+Foot hight = 0.010626
+Iteration: 98, t = 0.124656, CoM_x = -0.056953,  CoM_xp = -0.303756
+Foot hight = 0.011209
+Iteration: 104, t = 0.128699, CoM_x = -0.058247,  CoM_xp = -0.337486
+Foot hight = 0.011692
+Iteration: 110, t = 0.132057, CoM_x = -0.059437,  CoM_xp = -0.372706
+Foot hight = 0.012088
+Iteration: 116, t = 0.134819, CoM_x = -0.060516,  CoM_xp = -0.410106
+Foot hight = 0.012410
+Iteration: 122, t = 0.137070, CoM_x = -0.061482,  CoM_xp = -0.450609
+Foot hight = 0.012671
+Iteration: 128, t = 0.138889, CoM_x = -0.062341,  CoM_xp = -0.495481
+Foot hight = 0.012879
+Iteration: 134, t = 0.140351, CoM_x = -0.063100,  CoM_xp = -0.546570
+Foot hight = 0.013045
+Iteration: 140, t = 0.141520, CoM_x = -0.063772,  CoM_xp = -0.606938
+Foot hight = 0.013178
+Iteration: 146, t = 0.142466, CoM_x = -0.064379,  CoM_xp = -0.683072
+Foot hight = 0.013284
+Iteration: 158, t = 0.142947, CoM_x = -0.064721,  CoM_xp = -0.741436
+Foot hight = 0.013338
+Iteration: 164, t = 0.143427, CoM_x = -0.065096,  CoM_xp = -0.828090
+Foot hight = 0.013391
+Iteration: 176, t = 0.143652, CoM_x = -0.065289,  CoM_xp = -0.887179
+Foot hight = 0.013417
+Iteration: 182, t = 0.143878, CoM_x = -0.065498,  CoM_xp = -0.968753
+Foot hight = 0.013442
+Iteration: 194, t = 0.144022, CoM_x = -0.065642,  CoM_xp = -1.041231
+Foot hight = 0.013458
+Iteration: 200, t = 0.144166, CoM_x = -0.065799,  CoM_xp = -1.142634
+Foot hight = 0.013474
+Iteration: 212, t = 0.144255, CoM_x = -0.065905,  CoM_xp = -1.231072
+Foot hight = 0.013484
+Iteration: 218, t = 0.144345, CoM_x = -0.066020,  CoM_xp = -1.355692
+Foot hight = 0.013494
+Iteration: 230, t = 0.144398, CoM_x = -0.066095,  CoM_xp = -1.460505
+Foot hight = 0.013500
+Iteration: 236, t = 0.144451, CoM_x = -0.066177,  CoM_xp = -1.607254
+Foot hight = 0.013506
+Iteration: 248, t = 0.144483, CoM_x = -0.066230,  CoM_xp = -1.731021
+Foot hight = 0.013509
+Iteration: 254, t = 0.144516, CoM_x = -0.066288,  CoM_xp = -1.903122
+Foot hight = 0.013513
+Iteration: 266, t = 0.144535, CoM_x = -0.066327,  CoM_xp = -2.049089
+Foot hight = 0.013515
+Iteration: 272, t = 0.144555, CoM_x = -0.066369,  CoM_xp = -2.250859
+Foot hight = 0.013517
+Iteration: 284, t = 0.144567, CoM_x = -0.066397,  CoM_xp = -2.422987
+Foot hight = 0.013518
+Iteration: 290, t = 0.144579, CoM_x = -0.066428,  CoM_xp = -2.659803
+Foot hight = 0.013520
+Iteration: 302, t = 0.144586, CoM_x = -0.066449,  CoM_xp = -2.862763
+Foot hight = 0.013521
+Iteration: 308, t = 0.144594, CoM_x = -0.066471,  CoM_xp = -3.140983
+Foot hight = 0.013521
+Iteration: 320, t = 0.144599, CoM_x = -0.066487,  CoM_xp = -3.380275
+Foot hight = 0.013522
+Iteration: 326, t = 0.144603, CoM_x = -0.066503,  CoM_xp = -3.707384
+Foot hight = 0.013522
+Iteration: 338, t = 0.144606, CoM_x = -0.066515,  CoM_xp = -3.989486
+Foot hight = 0.013523
+Iteration: 344, t = 0.144609, CoM_x = -0.066527,  CoM_xp = -4.374291
+Foot hight = 0.013523
+Iteration: 356, t = 0.144611, CoM_x = -0.066536,  CoM_xp = -4.706831
+Foot hight = 0.013523
+Iteration: 362, t = 0.144613, CoM_x = -0.066545,  CoM_xp = -5.159698
+Foot hight = 0.013523
+Iteration: 374, t = 0.144614, CoM_x = -0.066551,  CoM_xp = -5.551661
+Foot hight = 0.013524
+Iteration: 380, t = 0.144616, CoM_x = -0.066558,  CoM_xp = -6.084794
+Foot hight = 0.013524
+Iteration: 392, t = 0.144616, CoM_x = -0.066563,  CoM_xp = -6.546766
+Foot hight = 0.013524
+Iteration: 398, t = 0.144617, CoM_x = -0.066568,  CoM_xp = -7.174536
+Foot hight = 0.013524
+Iteration: 410, t = 0.144618, CoM_x = -0.066572,  CoM_xp = -7.727461
+Foot hight = 0.013524
+Iteration: 416, t = 0.144618, CoM_x = -0.066576,  CoM_xp = -8.482215
+Foot hight = 0.013524
+Iteration: 428, t = 0.144618, CoM_x = -0.066579,  CoM_xp = -9.124300
+Foot hight = 0.013524
+Iteration: 434, t = 0.144619, CoM_x = -0.066582,  CoM_xp = -9.995118
+Foot hight = 0.013524
+Iteration: 446, t = 0.144619, CoM_x = -0.066584,  CoM_xp = -10.752077
+Foot hight = 0.013524
+Iteration: 452, t = 0.144619, CoM_x = -0.066586,  CoM_xp = -11.778547
+Foot hight = 0.013524
+Iteration: 464, t = 0.144619, CoM_x = -0.066587,  CoM_xp = -12.670572
+Foot hight = 0.013524
+Iteration: 470, t = 0.144619, CoM_x = -0.066589,  CoM_xp = -13.879937
+Foot hight = 0.013524
+Iteration: 482, t = 0.144619, CoM_x = -0.066590,  CoM_xp = -14.931192
+Foot hight = 0.013524
+Iteration: 488, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356252
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -17.594801
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.933634
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.635652
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.493754
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.424468
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.390228
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.373207
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.364721
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.360484
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.358367
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.357309
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356780
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356516
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356384
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356318
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356285
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356268
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356260
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356256
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356254
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356253
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356252
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356252
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356252
+Foot hight = 0.013524
+Iteration: 500, t = 0.144620, CoM_x = -0.066592,  CoM_xp = -16.356252
+Foot hight = 0.013524
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DGM', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Kinematic model\DGM.m', 49)" style="font-weight:bold">DGM</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Kinematic model\DGM.m',49,0)">line 49</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_move', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_move.m', 5)" style="font-weight:bold">robot_move</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_move.m',5,0)">line 5</a>)
+robot.T = DGM(robot);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JointsPosVel_from_CoMPosVel_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\qppf computation\JointsPosVel_from_CoMPosVel_HZDtime.m', 8)" style="font-weight:bold">JointsPosVel_from_CoMPosVel_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\qppf computation\JointsPosVel_from_CoMPosVel_HZDtime.m',8,0)">line 8</a>)
+robot = robot_move(robot,q);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m', 105)" style="font-weight:bold">robot_step_EssModel_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m',105,0)">line 105</a>)
+    [q,qp,~,~,~] =
+    JointsPosVel_from_CoMPosVel_HZDtime(qf_final,qfp_final,robot,gait_parameters,t(end));
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_Start_DS_SS_DS_gait_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m', 111)" style="font-weight:bold">robot_step_EssModel_Start_DS_SS_DS_gait_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m',111,0)">line 111</a>)
+    [t{j},X0,Xt{j}] = robot_step_EssModel_t(X_final); % "robot" and "gait_parameters"
+    structures are needed inside
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 139)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',139,0)">line 139</a>)
+    robot_step_EssModel_Start_DS_SS_DS_gait_t(gait_parameters_SS,gait_parameters_DS,gait_parameters_DS_final,gait_parameters_gait_SS,Nstep);} 
+M10_Ess_Model_t_Find_FixPoint_Periodic_Walking
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+{Undefined function or variable 'ZMPxMid'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Param01_2DBiped_StoppingDS', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Initial gait parameters\Param01_2DBiped_StoppingDS.m', 54)" style="font-weight:bold">Param01_2DBiped_StoppingDS</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Initial gait parameters\Param01_2DBiped_StoppingDS.m',54,0)">line 54</a>)
+gait_parameters.ZMPxMid = ZMPxMid;   % Initial desired position in X
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 33)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',33,0)">line 33</a>)
+Biped_param_Stop_DS = Param01_2DBiped_StoppingDS();
+} 
+opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Initial gait parameters\Param01_2DBiped_StoppingDS.m',54,0)
+M02_Ess_Model_t_Start_Periodic_Stop
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+All masses distributed (as it should be), i.e. alphaM = 1.000000
+DS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = 0.000000,  CoM_xp = 0.000000
+Foot hight = 0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.000000,  CoM_xp = -0.000075
+Foot hight = -0.000000
+Iteration: 14, t = 0.006000, CoM_x = -0.000001,  CoM_xp = -0.000448
+Foot hight = 0.000000
+Iteration: 20, t = 0.023904, CoM_x = -0.000021,  CoM_xp = -0.001792
+Foot hight = -0.000000
+Iteration: 26, t = 0.041797, CoM_x = -0.000066,  CoM_xp = -0.003167
+Foot hight = -0.000000
+Iteration: 32, t = 0.059662, CoM_x = -0.000135,  CoM_xp = -0.004594
+Foot hight = 0.000000
+Iteration: 38, t = 0.077438, CoM_x = -0.000230,  CoM_xp = -0.006094
+Foot hight = -0.000000
+Iteration: 44, t = 0.095068, CoM_x = -0.000351,  CoM_xp = -0.007685
+Foot hight = 0.000000
+Iteration: 50, t = 0.112500, CoM_x = -0.000500,  CoM_xp = -0.009386
+Foot hight = -0.000000
+Iteration: 56, t = 0.129691, CoM_x = -0.000676,  CoM_xp = -0.011217
+Foot hight = 0.000000
+Iteration: 62, t = 0.147000, CoM_x = -0.000888,  CoM_xp = -0.013244
+Foot hight = -0.000000
+Iteration: 68, t = 0.164577, CoM_x = -0.001140,  CoM_xp = -0.015527
+Foot hight = -0.000000
+Iteration: 74, t = 0.182371, CoM_x = -0.001439,  CoM_xp = -0.018107
+Foot hight = 0.000000
+Iteration: 80, t = 0.200000, CoM_x = -0.001783,  CoM_xp = -0.020977
+Foot hight = 0.000000
+SS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = -0.001783,  CoM_xp = -0.020977
+Foot hight = 0.000000
+Iteration: 8, t = 0.000824, CoM_x = -0.001800,  CoM_xp = -0.020313
+Foot hight = 0.000001
+Iteration: 14, t = 0.004942, CoM_x = -0.001877,  CoM_xp = -0.017096
+Foot hight = 0.000031
+Iteration: 20, t = 0.017459, CoM_x = -0.002035,  CoM_xp = -0.008309
+Foot hight = 0.000363
+Iteration: 26, t = 0.029292, CoM_x = -0.002090,  CoM_xp = -0.001198
+Foot hight = 0.000973
+Iteration: 32, t = 0.040115, CoM_x = -0.002072,  CoM_xp = 0.004437
+Foot hight = 0.001743
+Iteration: 38, t = 0.051152, CoM_x = -0.001994,  CoM_xp = 0.009439
+Foot hight = 0.002699
+Iteration: 44, t = 0.062386, CoM_x = -0.001863,  CoM_xp = 0.013841
+Foot hight = 0.003816
+Iteration: 50, t = 0.074632, CoM_x = -0.001668,  CoM_xp = 0.017922
+Foot hight = 0.005160
+Iteration: 56, t = 0.087863, CoM_x = -0.001406,  CoM_xp = 0.021548
+Foot hight = 0.006714
+Iteration: 62, t = 0.102128, CoM_x = -0.001076,  CoM_xp = 0.024578
+Foot hight = 0.008454
+Iteration: 68, t = 0.117728, CoM_x = -0.000673,  CoM_xp = 0.026840
+Foot hight = 0.010370
+Iteration: 74, t = 0.134224, CoM_x = -0.000219,  CoM_xp = 0.027979
+Foot hight = 0.012341
+Iteration: 80, t = 0.151331, CoM_x = 0.000259,  CoM_xp = 0.027710
+Foot hight = 0.014255
+Iteration: 86, t = 0.169552, CoM_x = 0.000749,  CoM_xp = 0.025733
+Foot hight = 0.016072
+Iteration: 92, t = 0.186534, CoM_x = 0.001159,  CoM_xp = 0.022365
+Foot hight = 0.017505
+Iteration: 98, t = 0.203524, CoM_x = 0.001501,  CoM_xp = 0.017710
+Foot hight = 0.018641
+Iteration: 104, t = 0.221454, CoM_x = 0.001767,  CoM_xp = 0.011772
+Foot hight = 0.019482
+Iteration: 110, t = 0.240580, CoM_x = 0.001926,  CoM_xp = 0.004835
+Foot hight = 0.019943
+Iteration: 116, t = 0.258121, CoM_x = 0.001955,  CoM_xp = -0.001534
+Foot hight = 0.019958
+Iteration: 122, t = 0.272795, CoM_x = 0.001895,  CoM_xp = -0.006530
+Foot hight = 0.019669
+Iteration: 128, t = 0.285889, CoM_x = 0.001783,  CoM_xp = -0.010549
+Foot hight = 0.019184
+Iteration: 134, t = 0.298288, CoM_x = 0.001631,  CoM_xp = -0.013866
+Foot hight = 0.018536
+Iteration: 140, t = 0.310909, CoM_x = 0.001437,  CoM_xp = -0.016677
+Foot hight = 0.017696
+Iteration: 146, t = 0.323766, CoM_x = 0.001208,  CoM_xp = -0.018898
+Foot hight = 0.016669
+Iteration: 152, t = 0.336922, CoM_x = 0.000948,  CoM_xp = -0.020452
+Foot hight = 0.015457
+Iteration: 158, t = 0.350486, CoM_x = 0.000665,  CoM_xp = -0.021244
+Foot hight = 0.014060
+Iteration: 164, t = 0.364627, CoM_x = 0.000364,  CoM_xp = -0.021138
+Foot hight = 0.012475
+Iteration: 170, t = 0.379676, CoM_x = 0.000053,  CoM_xp = -0.019899
+Foot hight = 0.010686
+Iteration: 176, t = 0.395897, CoM_x = -0.000249,  CoM_xp = -0.017141
+Foot hight = 0.008697
+Iteration: 182, t = 0.412061, CoM_x = -0.000493,  CoM_xp = -0.012763
+Foot hight = 0.006723
+Iteration: 188, t = 0.428154, CoM_x = -0.000651,  CoM_xp = -0.006591
+Foot hight = 0.004845
+Iteration: 194, t = 0.443108, CoM_x = -0.000696,  CoM_xp = 0.000970
+Foot hight = 0.003254
+Iteration: 200, t = 0.458080, CoM_x = -0.000612,  CoM_xp = 0.010553
+Foot hight = 0.001888
+Iteration: 206, t = 0.472352, CoM_x = -0.000384,  CoM_xp = 0.021879
+Foot hight = 0.000873
+Iteration: 212, t = 0.485796, CoM_x = -0.000005,  CoM_xp = 0.034911
+Foot hight = 0.000244
+Iteration: 218, t = 0.498057, CoM_x = 0.000509,  CoM_xp = 0.049262
+Foot hight = 0.000005
+Iteration: 224, t = 0.500000, CoM_x = 0.000607,  CoM_xp = 0.051787
+Foot hight = 0.000000
+DS phase (final)
+--------------------------
+Iteration: 225, t = 0.000000, CoM_x = 0.000607,  CoM_xp = 0.051787
+Foot hight = 0.000000
+Iteration: 231, t = 0.001000, CoM_x = 0.000659,  CoM_xp = 0.051956
+Foot hight = -0.000000
+Iteration: 237, t = 0.006000, CoM_x = 0.000921,  CoM_xp = 0.052842
+Foot hight = 0.000000
+Iteration: 243, t = 0.023564, CoM_x = 0.001880,  CoM_xp = 0.056539
+Foot hight = 0.000000
+Iteration: 249, t = 0.041444, CoM_x = 0.002932,  CoM_xp = 0.061290
+Foot hight = -0.000000
+Iteration: 255, t = 0.059043, CoM_x = 0.004059,  CoM_xp = 0.067018
+Foot hight = -0.000000
+Iteration: 261, t = 0.076430, CoM_x = 0.005282,  CoM_xp = 0.073791
+Foot hight = 0.000000
+Iteration: 267, t = 0.093679, CoM_x = 0.006621,  CoM_xp = 0.081703
+Foot hight = 0.000000
+Iteration: 273, t = 0.110845, CoM_x = 0.008100,  CoM_xp = 0.090857
+Foot hight = -0.000000
+Iteration: 279, t = 0.127968, CoM_x = 0.009744,  CoM_xp = 0.101359
+Foot hight = -0.000000
+Iteration: 285, t = 0.145081, CoM_x = 0.011578,  CoM_xp = 0.113311
+Foot hight = 0.000000
+Iteration: 291, t = 0.162216, CoM_x = 0.013633,  CoM_xp = 0.126798
+Foot hight = -0.000000
+Iteration: 297, t = 0.179422, CoM_x = 0.015943,  CoM_xp = 0.141878
+Foot hight = 0.000000
+Iteration: 303, t = 0.196786, CoM_x = 0.018549,  CoM_xp = 0.158584
+Foot hight = 0.000000
+Iteration: 309, t = 0.200000, CoM_x = 0.019064,  CoM_xp = 0.161827
+Foot hight = 0.000000
+Gait phase
+--------------------------
+The linear velocity of the free foot before impact is:
+ xp = -0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 7.785439e-15
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 8.881784e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.030936,  CoM_xp = 0.161827
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.030774,  CoM_xp = 0.161435
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029972,  CoM_xp = 0.159403
+Foot hight = 0.000045
+Iteration: 20, t = 0.022530, CoM_x = -0.027397,  CoM_xp = 0.152099
+Foot hight = 0.000593
+Iteration: 26, t = 0.040035, CoM_x = -0.024805,  CoM_xp = 0.143943
+Foot hight = 0.001736
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OptionDesiredTrajectory', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Modifiable programs\Polynoms\OptionDesiredTrajectory.m', 3)" style="font-weight:bold">OptionDesiredTrajectory</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Modifiable programs\Polynoms\OptionDesiredTrajectory.m',3,0)">line 3</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JointsPosVel_from_CoMPosVel_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\qppf computation\JointsPosVel_from_CoMPosVel_HZDtime.m', 12)" style="font-weight:bold">JointsPosVel_from_CoMPosVel_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\qppf computation\JointsPosVel_from_CoMPosVel_HZDtime.m',12,0)">line 12</a>)
+OptionDesiredTrajectory;
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Desired_qfpp_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\Desired_qfpp_HZDtime.m', 21)" style="font-weight:bold">Desired_qfpp_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\Desired_qfpp_HZDtime.m',21,0)">line 21</a>)
+[q,qD,JPhi,JQ,~] = JointsPosVel_from_CoMPosVel_HZDtime(qf,qfp,robot,gait_parameters,t);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dynam_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\dynam_HZDtime.m', 68)" style="font-weight:bold">dynam_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\dynam_HZDtime.m',68,0)">line 68</a>)
+    [qfpp, ~, ~, ~, ~, ~] = Desired_qfpp_HZDtime(ZMPd,robot,[qf;qfp],gait_parameters,t);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\funfun\ode45.m', 263)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\funfun\ode45.m',263,0)">line 263</a>)
+    f(:,4) = feval(odeFcn,t+hA(3),y+f*hB(:,3),odeArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m', 98)" style="font-weight:bold">robot_step_EssModel_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m',98,0)">line 98</a>)
+[t,Xt] = ode45(@dynam_HZDtime,0:1e-3:T,X0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_Start_DS_SS_DS_gait_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m', 111)" style="font-weight:bold">robot_step_EssModel_Start_DS_SS_DS_gait_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m',111,0)">line 111</a>)
+    [t{j},X0,Xt{j}] = robot_step_EssModel_t(X_final); % "robot" and "gait_parameters"
+    structures are needed inside
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 139)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',139,0)">line 139</a>)
+    robot_step_EssModel_Start_DS_SS_DS_gait_t(gait_parameters_SS,gait_parameters_DS,gait_parameters_DS_final,gait_parameters_gait_SS,Nstep);} 
+M02_Ess_Model_t_Start_Periodic_Stop
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+All masses distributed (as it should be), i.e. alphaM = 1.000000
+DS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = 0.000000,  CoM_xp = 0.000000
+Foot hight = 0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.000000,  CoM_xp = -0.000075
+Foot hight = -0.000000
+Iteration: 14, t = 0.006000, CoM_x = -0.000001,  CoM_xp = -0.000448
+Foot hight = 0.000000
+Iteration: 20, t = 0.023904, CoM_x = -0.000021,  CoM_xp = -0.001792
+Foot hight = -0.000000
+Iteration: 26, t = 0.041797, CoM_x = -0.000066,  CoM_xp = -0.003167
+Foot hight = -0.000000
+Iteration: 32, t = 0.059662, CoM_x = -0.000135,  CoM_xp = -0.004594
+Foot hight = 0.000000
+Iteration: 38, t = 0.077438, CoM_x = -0.000230,  CoM_xp = -0.006094
+Foot hight = -0.000000
+Iteration: 44, t = 0.095068, CoM_x = -0.000351,  CoM_xp = -0.007685
+Foot hight = 0.000000
+Iteration: 50, t = 0.112500, CoM_x = -0.000500,  CoM_xp = -0.009386
+Foot hight = -0.000000
+Iteration: 56, t = 0.129691, CoM_x = -0.000676,  CoM_xp = -0.011217
+Foot hight = 0.000000
+Iteration: 62, t = 0.147000, CoM_x = -0.000888,  CoM_xp = -0.013244
+Foot hight = -0.000000
+Iteration: 68, t = 0.164577, CoM_x = -0.001140,  CoM_xp = -0.015527
+Foot hight = -0.000000
+Iteration: 74, t = 0.182371, CoM_x = -0.001439,  CoM_xp = -0.018107
+Foot hight = 0.000000
+Iteration: 80, t = 0.200000, CoM_x = -0.001783,  CoM_xp = -0.020977
+Foot hight = 0.000000
+SS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = -0.001783,  CoM_xp = -0.020977
+Foot hight = 0.000000
+Iteration: 8, t = 0.000824, CoM_x = -0.001800,  CoM_xp = -0.020313
+Foot hight = 0.000001
+Iteration: 14, t = 0.004942, CoM_x = -0.001877,  CoM_xp = -0.017096
+Foot hight = 0.000031
+Iteration: 20, t = 0.017459, CoM_x = -0.002035,  CoM_xp = -0.008309
+Foot hight = 0.000363
+Iteration: 26, t = 0.029292, CoM_x = -0.002090,  CoM_xp = -0.001198
+Foot hight = 0.000973
+Iteration: 32, t = 0.040115, CoM_x = -0.002072,  CoM_xp = 0.004437
+Foot hight = 0.001743
+Iteration: 38, t = 0.051152, CoM_x = -0.001994,  CoM_xp = 0.009439
+Foot hight = 0.002699
+Iteration: 44, t = 0.062386, CoM_x = -0.001863,  CoM_xp = 0.013841
+Foot hight = 0.003816
+Iteration: 50, t = 0.074632, CoM_x = -0.001668,  CoM_xp = 0.017922
+Foot hight = 0.005160
+Iteration: 56, t = 0.087863, CoM_x = -0.001406,  CoM_xp = 0.021548
+Foot hight = 0.006714
+Iteration: 62, t = 0.102128, CoM_x = -0.001076,  CoM_xp = 0.024578
+Foot hight = 0.008454
+Iteration: 68, t = 0.117728, CoM_x = -0.000673,  CoM_xp = 0.026840
+Foot hight = 0.010370
+Iteration: 74, t = 0.134224, CoM_x = -0.000219,  CoM_xp = 0.027979
+Foot hight = 0.012341
+Iteration: 80, t = 0.151331, CoM_x = 0.000259,  CoM_xp = 0.027710
+Foot hight = 0.014255
+Iteration: 86, t = 0.169552, CoM_x = 0.000749,  CoM_xp = 0.025733
+Foot hight = 0.016072
+Iteration: 92, t = 0.186534, CoM_x = 0.001159,  CoM_xp = 0.022365
+Foot hight = 0.017505
+Iteration: 98, t = 0.203524, CoM_x = 0.001501,  CoM_xp = 0.017710
+Foot hight = 0.018641
+Iteration: 104, t = 0.221454, CoM_x = 0.001767,  CoM_xp = 0.011772
+Foot hight = 0.019482
+Iteration: 110, t = 0.240580, CoM_x = 0.001926,  CoM_xp = 0.004835
+Foot hight = 0.019943
+Iteration: 116, t = 0.258121, CoM_x = 0.001955,  CoM_xp = -0.001534
+Foot hight = 0.019958
+Iteration: 122, t = 0.272795, CoM_x = 0.001895,  CoM_xp = -0.006530
+Foot hight = 0.019669
+Iteration: 128, t = 0.285889, CoM_x = 0.001783,  CoM_xp = -0.010549
+Foot hight = 0.019184
+Iteration: 134, t = 0.298288, CoM_x = 0.001631,  CoM_xp = -0.013866
+Foot hight = 0.018536
+Iteration: 140, t = 0.310909, CoM_x = 0.001437,  CoM_xp = -0.016677
+Foot hight = 0.017696
+Iteration: 146, t = 0.323766, CoM_x = 0.001208,  CoM_xp = -0.018898
+Foot hight = 0.016669
+Iteration: 152, t = 0.336922, CoM_x = 0.000948,  CoM_xp = -0.020452
+Foot hight = 0.015457
+Iteration: 158, t = 0.350486, CoM_x = 0.000665,  CoM_xp = -0.021244
+Foot hight = 0.014060
+Iteration: 164, t = 0.364627, CoM_x = 0.000364,  CoM_xp = -0.021138
+Foot hight = 0.012475
+Iteration: 170, t = 0.379676, CoM_x = 0.000053,  CoM_xp = -0.019899
+Foot hight = 0.010686
+Iteration: 176, t = 0.395897, CoM_x = -0.000249,  CoM_xp = -0.017141
+Foot hight = 0.008697
+Iteration: 182, t = 0.412061, CoM_x = -0.000493,  CoM_xp = -0.012763
+Foot hight = 0.006723
+Iteration: 188, t = 0.428154, CoM_x = -0.000651,  CoM_xp = -0.006591
+Foot hight = 0.004845
+Iteration: 194, t = 0.443108, CoM_x = -0.000696,  CoM_xp = 0.000970
+Foot hight = 0.003254
+Iteration: 200, t = 0.458080, CoM_x = -0.000612,  CoM_xp = 0.010553
+Foot hight = 0.001888
+Iteration: 206, t = 0.472352, CoM_x = -0.000384,  CoM_xp = 0.021879
+Foot hight = 0.000873
+Iteration: 212, t = 0.485796, CoM_x = -0.000005,  CoM_xp = 0.034911
+Foot hight = 0.000244
+Iteration: 218, t = 0.498057, CoM_x = 0.000509,  CoM_xp = 0.049262
+Foot hight = 0.000005
+Iteration: 224, t = 0.500000, CoM_x = 0.000607,  CoM_xp = 0.051787
+Foot hight = 0.000000
+DS phase (final)
+--------------------------
+Iteration: 225, t = 0.000000, CoM_x = 0.000607,  CoM_xp = 0.051787
+Foot hight = 0.000000
+Iteration: 231, t = 0.001000, CoM_x = 0.000659,  CoM_xp = 0.051956
+Foot hight = -0.000000
+Iteration: 237, t = 0.006000, CoM_x = 0.000921,  CoM_xp = 0.052842
+Foot hight = 0.000000
+Iteration: 243, t = 0.023564, CoM_x = 0.001880,  CoM_xp = 0.056539
+Foot hight = 0.000000
+Iteration: 249, t = 0.041444, CoM_x = 0.002932,  CoM_xp = 0.061290
+Foot hight = -0.000000
+Iteration: 255, t = 0.059043, CoM_x = 0.004059,  CoM_xp = 0.067018
+Foot hight = -0.000000
+Iteration: 261, t = 0.076430, CoM_x = 0.005282,  CoM_xp = 0.073791
+Foot hight = 0.000000
+Iteration: 267, t = 0.093679, CoM_x = 0.006621,  CoM_xp = 0.081703
+Foot hight = 0.000000
+Iteration: 273, t = 0.110845, CoM_x = 0.008100,  CoM_xp = 0.090857
+Foot hight = -0.000000
+Iteration: 279, t = 0.127968, CoM_x = 0.009744,  CoM_xp = 0.101359
+Foot hight = -0.000000
+Iteration: 285, t = 0.145081, CoM_x = 0.011578,  CoM_xp = 0.113311
+Foot hight = 0.000000
+Iteration: 291, t = 0.162216, CoM_x = 0.013633,  CoM_xp = 0.126798
+Foot hight = -0.000000
+Iteration: 297, t = 0.179422, CoM_x = 0.015943,  CoM_xp = 0.141878
+Foot hight = 0.000000
+Iteration: 303, t = 0.196786, CoM_x = 0.018549,  CoM_xp = 0.158584
+Foot hight = 0.000000
+Iteration: 309, t = 0.200000, CoM_x = 0.019064,  CoM_xp = 0.161827
+Foot hight = 0.000000
+Gait phase
+--------------------------
+The linear velocity of the free foot before impact is:
+ xp = -0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 7.785439e-15
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 8.881784e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.030936,  CoM_xp = 0.161827
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.030774,  CoM_xp = 0.161435
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029972,  CoM_xp = 0.159403
+Foot hight = 0.000045
+Iteration: 20, t = 0.022530, CoM_x = -0.027397,  CoM_xp = 0.152099
+Foot hight = 0.000593
+Iteration: 26, t = 0.040035, CoM_x = -0.024805,  CoM_xp = 0.143943
+Foot hight = 0.001736
+Iteration: 32, t = 0.059597, CoM_x = -0.022078,  CoM_xp = 0.134988
+Foot hight = 0.003527
+Iteration: 38, t = 0.080153, CoM_x = -0.019394,  CoM_xp = 0.126290
+Foot hight = 0.005798
+Iteration: 44, t = 0.101427, CoM_x = -0.016793,  CoM_xp = 0.118410
+Foot hight = 0.008367
+Iteration: 50, t = 0.122918, CoM_x = -0.014323,  CoM_xp = 0.111678
+Foot hight = 0.010999
+Iteration: 56, t = 0.143451, CoM_x = -0.012088,  CoM_xp = 0.106088
+Foot hight = 0.013394
+Iteration: 62, t = 0.161880, CoM_x = -0.010178,  CoM_xp = 0.101146
+Foot hight = 0.015339
+Iteration: 68, t = 0.178289, CoM_x = -0.008558,  CoM_xp = 0.096113
+Foot hight = 0.016844
+Iteration: 74, t = 0.193443, CoM_x = -0.007144,  CoM_xp = 0.090355
+Foot hight = 0.018005
+Iteration: 80, t = 0.208220, CoM_x = -0.005859,  CoM_xp = 0.083359
+Foot hight = 0.018898
+Iteration: 86, t = 0.223448, CoM_x = -0.004654,  CoM_xp = 0.074666
+Foot hight = 0.019551
+Iteration: 92, t = 0.239022, CoM_x = -0.003568,  CoM_xp = 0.064555
+Foot hight = 0.019923
+Iteration: 98, t = 0.258957, CoM_x = -0.002418,  CoM_xp = 0.050857
+Foot hight = 0.019949
+Iteration: 104, t = 0.276398, CoM_x = -0.001633,  CoM_xp = 0.039295
+Foot hight = 0.019556
+Iteration: 110, t = 0.292813, CoM_x = -0.001070,  CoM_xp = 0.029555
+Foot hight = 0.018844
+Iteration: 116, t = 0.308592, CoM_x = -0.000668,  CoM_xp = 0.021641
+Foot hight = 0.017863
+Iteration: 122, t = 0.322050, CoM_x = -0.000415,  CoM_xp = 0.016150
+Foot hight = 0.016816
+Iteration: 128, t = 0.334261, CoM_x = -0.000243,  CoM_xp = 0.012201
+Foot hight = 0.015714
+Iteration: 134, t = 0.345765, CoM_x = -0.000119,  CoM_xp = 0.009374
+Foot hight = 0.014561
+Iteration: 140, t = 0.356845, CoM_x = -0.000027,  CoM_xp = 0.007462
+Foot hight = 0.013361
+Iteration: 146, t = 0.367859, CoM_x = 0.000049,  CoM_xp = 0.006340
+Foot hight = 0.012098
+Iteration: 152, t = 0.379430, CoM_x = 0.000119,  CoM_xp = 0.005997
+Foot hight = 0.010715
+Iteration: 158, t = 0.391866, CoM_x = 0.000196,  CoM_xp = 0.006592
+Foot hight = 0.009193
+Iteration: 164, t = 0.405862, CoM_x = 0.000300,  CoM_xp = 0.008490
+Foot hight = 0.007474
+Iteration: 170, t = 0.421805, CoM_x = 0.000464,  CoM_xp = 0.012308
+Foot hight = 0.005570
+Iteration: 176, t = 0.437797, CoM_x = 0.000704,  CoM_xp = 0.018031
+Foot hight = 0.003797
+Iteration: 182, t = 0.453341, CoM_x = 0.001040,  CoM_xp = 0.025587
+Foot hight = 0.002291
+Iteration: 188, t = 0.467889, CoM_x = 0.001476,  CoM_xp = 0.034689
+Foot hight = 0.001156
+Iteration: 194, t = 0.481446, CoM_x = 0.002015,  CoM_xp = 0.045292
+Foot hight = 0.000409
+Iteration: 200, t = 0.494486, CoM_x = 0.002685,  CoM_xp = 0.057903
+Foot hight = 0.000038
+Iteration: 206, t = 0.500000, CoM_x = 0.003021,  CoM_xp = 0.064097
+Foot hight = 0.000000
+Step 1 of 3
+Initial ZMP position in X: 0.000
+Final ZMP position in X: 0.000
+Initial states: [x0 xp0] = [0.019064,0.161827]
+Final states: [xf xpf] = [0.003021,0.064097]
+-------------------------------------------
+The linear velocity of the free foot before impact is:
+ xp = 0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 3.828951e-12
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 4.328761e-17 
+Iteration: 2, t = 0.000000, CoM_x = -0.046979,  CoM_xp = 0.064097
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.046915,  CoM_xp = 0.062299
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.046627,  CoM_xp = 0.053178
+Foot hight = 0.000045
+Iteration: 20, t = 0.016754, CoM_x = -0.046163,  CoM_xp = 0.032853
+Foot hight = 0.000336
+Iteration: 26, t = 0.027426, CoM_x = -0.045924,  CoM_xp = 0.011758
+Foot hight = 0.000860
+Iteration: 32, t = 0.037274, CoM_x = -0.045908,  CoM_xp = -0.008555
+Foot hight = 0.001523
+Iteration: 38, t = 0.045458, CoM_x = -0.046049,  CoM_xp = -0.026135
+Foot hight = 0.002186
+Iteration: 44, t = 0.055302, CoM_x = -0.046415,  CoM_xp = -0.048290
+Foot hight = 0.003097
+Iteration: 50, t = 0.067240, CoM_x = -0.047161,  CoM_xp = -0.077108
+Foot hight = 0.004335
+Iteration: 56, t = 0.080898, CoM_x = -0.048459,  CoM_xp = -0.113862
+Foot hight = 0.005885
+Iteration: 68, t = 0.090144, CoM_x = -0.049640,  CoM_xp = -0.142113
+Foot hight = 0.006989
+Iteration: 74, t = 0.099390, CoM_x = -0.051099,  CoM_xp = -0.174332
+Foot hight = 0.008117
+Iteration: 80, t = 0.107377, CoM_x = -0.052618,  CoM_xp = -0.206696
+Foot hight = 0.009100
+Iteration: 86, t = 0.114122, CoM_x = -0.054117,  CoM_xp = -0.238772
+Foot hight = 0.009929
+Iteration: 92, t = 0.119833, CoM_x = -0.055570,  CoM_xp = -0.270992
+Foot hight = 0.010626
+Iteration: 98, t = 0.124656, CoM_x = -0.056953,  CoM_xp = -0.303756
+Foot hight = 0.011209
+Iteration: 104, t = 0.128699, CoM_x = -0.058247,  CoM_xp = -0.337486
+Foot hight = 0.011692
+Iteration: 110, t = 0.132057, CoM_x = -0.059437,  CoM_xp = -0.372706
+Foot hight = 0.012088
+Iteration: 116, t = 0.134819, CoM_x = -0.060516,  CoM_xp = -0.410106
+Foot hight = 0.012410
+Iteration: 122, t = 0.137070, CoM_x = -0.061482,  CoM_xp = -0.450609
+Foot hight = 0.012671
+Iteration: 128, t = 0.138889, CoM_x = -0.062341,  CoM_xp = -0.495481
+Foot hight = 0.012879
+Iteration: 134, t = 0.140351, CoM_x = -0.063100,  CoM_xp = -0.546570
+Foot hight = 0.013045
+Iteration: 140, t = 0.141520, CoM_x = -0.063772,  CoM_xp = -0.606938
+Foot hight = 0.013178
+Iteration: 146, t = 0.142466, CoM_x = -0.064379,  CoM_xp = -0.683072
+Foot hight = 0.013284
+Iteration: 158, t = 0.142947, CoM_x = -0.064721,  CoM_xp = -0.741436
+Foot hight = 0.013338
+Iteration: 164, t = 0.143427, CoM_x = -0.065096,  CoM_xp = -0.828090
+Foot hight = 0.013391
+Iteration: 176, t = 0.143652, CoM_x = -0.065289,  CoM_xp = -0.887179
+Foot hight = 0.013417
+Iteration: 182, t = 0.143878, CoM_x = -0.065498,  CoM_xp = -0.968753
+Foot hight = 0.013442
+Iteration: 194, t = 0.144022, CoM_x = -0.065642,  CoM_xp = -1.041231
+Foot hight = 0.013458
+Iteration: 200, t = 0.144166, CoM_x = -0.065799,  CoM_xp = -1.142634
+Foot hight = 0.013474
+Iteration: 212, t = 0.144255, CoM_x = -0.065905,  CoM_xp = -1.231072
+Foot hight = 0.013484
+Iteration: 218, t = 0.144345, CoM_x = -0.066020,  CoM_xp = -1.355692
+Foot hight = 0.013494
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OptionDesiredTrajectory', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Modifiable programs\Polynoms\OptionDesiredTrajectory.m', 23)" style="font-weight:bold">OptionDesiredTrajectory</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Modifiable programs\Polynoms\OptionDesiredTrajectory.m',23,0)">line 23</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('JointsPosVel_from_CoMPosVel_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\qppf computation\JointsPosVel_from_CoMPosVel_HZDtime.m', 12)" style="font-weight:bold">JointsPosVel_from_CoMPosVel_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\qppf computation\JointsPosVel_from_CoMPosVel_HZDtime.m',12,0)">line 12</a>)
+OptionDesiredTrajectory;
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Desired_qfpp_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\Desired_qfpp_HZDtime.m', 21)" style="font-weight:bold">Desired_qfpp_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\Desired_qfpp_HZDtime.m',21,0)">line 21</a>)
+[q,qD,JPhi,JQ,~] = JointsPosVel_from_CoMPosVel_HZDtime(qf,qfp,robot,gait_parameters,t);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dynam_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\dynam_HZDtime.m', 68)" style="font-weight:bold">dynam_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\dynam_HZDtime.m',68,0)">line 68</a>)
+    [qfpp, ~, ~, ~, ~, ~] = Desired_qfpp_HZDtime(ZMPd,robot,[qf;qfp],gait_parameters,t);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\funfun\ode45.m', 262)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\funfun\ode45.m',262,0)">line 262</a>)
+    f(:,3) = feval(odeFcn,t+hA(2),y+f*hB(:,2),odeArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m', 98)" style="font-weight:bold">robot_step_EssModel_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m',98,0)">line 98</a>)
+[t,Xt] = ode45(@dynam_HZDtime,0:1e-3:T,X0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_Start_DS_SS_DS_gait_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m', 111)" style="font-weight:bold">robot_step_EssModel_Start_DS_SS_DS_gait_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m',111,0)">line 111</a>)
+    [t{j},X0,Xt{j}] = robot_step_EssModel_t(X_final); % "robot" and "gait_parameters"
+    structures are needed inside
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 139)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',139,0)">line 139</a>)
+    robot_step_EssModel_Start_DS_SS_DS_gait_t(gait_parameters_SS,gait_parameters_DS,gait_parameters_DS_final,gait_parameters_gait_SS,Nstep);} 
+M10_Ess_Model_t_Find_FixPoint_Periodic_Walking
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+All masses distributed (as it should be), i.e. alphaM = 1.000000
+DS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = 0.000000,  CoM_xp = 0.000000
+Foot hight = 0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.000000,  CoM_xp = -0.000075
+Foot hight = -0.000000
+Iteration: 14, t = 0.006000, CoM_x = -0.000001,  CoM_xp = -0.000448
+Foot hight = 0.000000
+Iteration: 20, t = 0.023904, CoM_x = -0.000021,  CoM_xp = -0.001792
+Foot hight = -0.000000
+Iteration: 26, t = 0.041797, CoM_x = -0.000066,  CoM_xp = -0.003167
+Foot hight = -0.000000
+Iteration: 32, t = 0.059662, CoM_x = -0.000135,  CoM_xp = -0.004594
+Foot hight = 0.000000
+Iteration: 38, t = 0.077438, CoM_x = -0.000230,  CoM_xp = -0.006094
+Foot hight = -0.000000
+Iteration: 44, t = 0.095068, CoM_x = -0.000351,  CoM_xp = -0.007685
+Foot hight = 0.000000
+Iteration: 50, t = 0.112500, CoM_x = -0.000500,  CoM_xp = -0.009386
+Foot hight = -0.000000
+Iteration: 56, t = 0.129691, CoM_x = -0.000676,  CoM_xp = -0.011217
+Foot hight = 0.000000
+Iteration: 62, t = 0.147000, CoM_x = -0.000888,  CoM_xp = -0.013244
+Foot hight = -0.000000
+Iteration: 68, t = 0.164577, CoM_x = -0.001140,  CoM_xp = -0.015527
+Foot hight = -0.000000
+Iteration: 74, t = 0.182371, CoM_x = -0.001439,  CoM_xp = -0.018107
+Foot hight = 0.000000
+Iteration: 80, t = 0.200000, CoM_x = -0.001783,  CoM_xp = -0.020977
+Foot hight = 0.000000
+SS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = -0.001783,  CoM_xp = -0.020977
+Foot hight = 0.000000
+Iteration: 8, t = 0.000824, CoM_x = -0.001800,  CoM_xp = -0.020313
+Foot hight = 0.000001
+Iteration: 14, t = 0.004942, CoM_x = -0.001877,  CoM_xp = -0.017096
+Foot hight = 0.000031
+Iteration: 20, t = 0.017459, CoM_x = -0.002035,  CoM_xp = -0.008309
+Foot hight = 0.000363
+Iteration: 26, t = 0.029292, CoM_x = -0.002090,  CoM_xp = -0.001198
+Foot hight = 0.000973
+Iteration: 32, t = 0.040115, CoM_x = -0.002072,  CoM_xp = 0.004437
+Foot hight = 0.001743
+Iteration: 38, t = 0.051152, CoM_x = -0.001994,  CoM_xp = 0.009439
+Foot hight = 0.002699
+Iteration: 44, t = 0.062386, CoM_x = -0.001863,  CoM_xp = 0.013841
+Foot hight = 0.003816
+Iteration: 50, t = 0.074632, CoM_x = -0.001668,  CoM_xp = 0.017922
+Foot hight = 0.005160
+Iteration: 56, t = 0.087863, CoM_x = -0.001406,  CoM_xp = 0.021548
+Foot hight = 0.006714
+Iteration: 62, t = 0.102128, CoM_x = -0.001076,  CoM_xp = 0.024578
+Foot hight = 0.008454
+Iteration: 68, t = 0.117728, CoM_x = -0.000673,  CoM_xp = 0.026840
+Foot hight = 0.010370
+Iteration: 74, t = 0.134224, CoM_x = -0.000219,  CoM_xp = 0.027979
+Foot hight = 0.012341
+Iteration: 80, t = 0.151331, CoM_x = 0.000259,  CoM_xp = 0.027710
+Foot hight = 0.014255
+Iteration: 86, t = 0.169552, CoM_x = 0.000749,  CoM_xp = 0.025733
+Foot hight = 0.016072
+Iteration: 92, t = 0.186534, CoM_x = 0.001159,  CoM_xp = 0.022365
+Foot hight = 0.017505
+Iteration: 98, t = 0.203524, CoM_x = 0.001501,  CoM_xp = 0.017710
+Foot hight = 0.018641
+Iteration: 104, t = 0.221454, CoM_x = 0.001767,  CoM_xp = 0.011772
+Foot hight = 0.019482
+Iteration: 110, t = 0.240580, CoM_x = 0.001926,  CoM_xp = 0.004835
+Foot hight = 0.019943
+Iteration: 116, t = 0.258121, CoM_x = 0.001955,  CoM_xp = -0.001534
+Foot hight = 0.019958
+Iteration: 122, t = 0.272795, CoM_x = 0.001895,  CoM_xp = -0.006530
+Foot hight = 0.019669
+Iteration: 128, t = 0.285889, CoM_x = 0.001783,  CoM_xp = -0.010549
+Foot hight = 0.019184
+Iteration: 134, t = 0.298288, CoM_x = 0.001631,  CoM_xp = -0.013866
+Foot hight = 0.018536
+Iteration: 140, t = 0.310909, CoM_x = 0.001437,  CoM_xp = -0.016677
+Foot hight = 0.017696
+Iteration: 146, t = 0.323766, CoM_x = 0.001208,  CoM_xp = -0.018898
+Foot hight = 0.016669
+Iteration: 152, t = 0.336922, CoM_x = 0.000948,  CoM_xp = -0.020452
+Foot hight = 0.015457
+Iteration: 158, t = 0.350486, CoM_x = 0.000665,  CoM_xp = -0.021244
+Foot hight = 0.014060
+Iteration: 164, t = 0.364627, CoM_x = 0.000364,  CoM_xp = -0.021138
+Foot hight = 0.012475
+Iteration: 170, t = 0.379676, CoM_x = 0.000053,  CoM_xp = -0.019899
+Foot hight = 0.010686
+Iteration: 176, t = 0.395897, CoM_x = -0.000249,  CoM_xp = -0.017141
+Foot hight = 0.008697
+Iteration: 182, t = 0.412061, CoM_x = -0.000493,  CoM_xp = -0.012763
+Foot hight = 0.006723
+Iteration: 188, t = 0.428154, CoM_x = -0.000651,  CoM_xp = -0.006591
+Foot hight = 0.004845
+Iteration: 194, t = 0.443108, CoM_x = -0.000696,  CoM_xp = 0.000970
+Foot hight = 0.003254
+Iteration: 200, t = 0.458080, CoM_x = -0.000612,  CoM_xp = 0.010553
+Foot hight = 0.001888
+Iteration: 206, t = 0.472352, CoM_x = -0.000384,  CoM_xp = 0.021879
+Foot hight = 0.000873
+Iteration: 212, t = 0.485796, CoM_x = -0.000005,  CoM_xp = 0.034911
+Foot hight = 0.000244
+Iteration: 218, t = 0.498057, CoM_x = 0.000509,  CoM_xp = 0.049262
+Foot hight = 0.000005
+Iteration: 224, t = 0.500000, CoM_x = 0.000607,  CoM_xp = 0.051787
+Foot hight = 0.000000
+DS phase (final)
+--------------------------
+Iteration: 225, t = 0.000000, CoM_x = 0.000607,  CoM_xp = 0.051787
+Foot hight = 0.000000
+Iteration: 231, t = 0.001000, CoM_x = 0.000659,  CoM_xp = 0.051956
+Foot hight = -0.000000
+Iteration: 237, t = 0.006000, CoM_x = 0.000921,  CoM_xp = 0.052842
+Foot hight = 0.000000
+Iteration: 243, t = 0.023564, CoM_x = 0.001880,  CoM_xp = 0.056539
+Foot hight = 0.000000
+Iteration: 249, t = 0.041444, CoM_x = 0.002932,  CoM_xp = 0.061290
+Foot hight = -0.000000
+Iteration: 255, t = 0.059043, CoM_x = 0.004059,  CoM_xp = 0.067018
+Foot hight = -0.000000
+Iteration: 261, t = 0.076430, CoM_x = 0.005282,  CoM_xp = 0.073791
+Foot hight = 0.000000
+Iteration: 267, t = 0.093679, CoM_x = 0.006621,  CoM_xp = 0.081703
+Foot hight = 0.000000
+Iteration: 273, t = 0.110845, CoM_x = 0.008100,  CoM_xp = 0.090857
+Foot hight = -0.000000
+Iteration: 279, t = 0.127968, CoM_x = 0.009744,  CoM_xp = 0.101359
+Foot hight = -0.000000
+Iteration: 285, t = 0.145081, CoM_x = 0.011578,  CoM_xp = 0.113311
+Foot hight = 0.000000
+Iteration: 291, t = 0.162216, CoM_x = 0.013633,  CoM_xp = 0.126798
+Foot hight = -0.000000
+Iteration: 297, t = 0.179422, CoM_x = 0.015943,  CoM_xp = 0.141878
+Foot hight = 0.000000
+Iteration: 303, t = 0.196786, CoM_x = 0.018549,  CoM_xp = 0.158584
+Foot hight = 0.000000
+Iteration: 309, t = 0.200000, CoM_x = 0.019064,  CoM_xp = 0.161827
+Foot hight = 0.000000
+Gait phase
+--------------------------
+The linear velocity of the free foot before impact is:
+ xp = -0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 7.785439e-15
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 8.881784e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.030936,  CoM_xp = 0.161827
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.030774,  CoM_xp = 0.161435
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029972,  CoM_xp = 0.159403
+Foot hight = 0.000045
+Iteration: 20, t = 0.022530, CoM_x = -0.027397,  CoM_xp = 0.152099
+Foot hight = 0.000593
+Iteration: 26, t = 0.040035, CoM_x = -0.024805,  CoM_xp = 0.143943
+Foot hight = 0.001736
+Iteration: 32, t = 0.059597, CoM_x = -0.022078,  CoM_xp = 0.134988
+Foot hight = 0.003527
+Iteration: 38, t = 0.080153, CoM_x = -0.019394,  CoM_xp = 0.126290
+Foot hight = 0.005798
+Iteration: 44, t = 0.101427, CoM_x = -0.016793,  CoM_xp = 0.118410
+Foot hight = 0.008367
+Iteration: 50, t = 0.122918, CoM_x = -0.014323,  CoM_xp = 0.111678
+Foot hight = 0.010999
+Iteration: 56, t = 0.143451, CoM_x = -0.012088,  CoM_xp = 0.106088
+Foot hight = 0.013394
+Iteration: 62, t = 0.161880, CoM_x = -0.010178,  CoM_xp = 0.101146
+Foot hight = 0.015339
+Iteration: 68, t = 0.178289, CoM_x = -0.008558,  CoM_xp = 0.096113
+Foot hight = 0.016844
+Iteration: 74, t = 0.193443, CoM_x = -0.007144,  CoM_xp = 0.090355
+Foot hight = 0.018005
+Iteration: 80, t = 0.208220, CoM_x = -0.005859,  CoM_xp = 0.083359
+Foot hight = 0.018898
+Iteration: 86, t = 0.223448, CoM_x = -0.004654,  CoM_xp = 0.074666
+Foot hight = 0.019551
+Iteration: 92, t = 0.239022, CoM_x = -0.003568,  CoM_xp = 0.064555
+Foot hight = 0.019923
+Iteration: 98, t = 0.258957, CoM_x = -0.002418,  CoM_xp = 0.050857
+Foot hight = 0.019949
+Iteration: 104, t = 0.276398, CoM_x = -0.001633,  CoM_xp = 0.039295
+Foot hight = 0.019556
+Iteration: 110, t = 0.292813, CoM_x = -0.001070,  CoM_xp = 0.029555
+Foot hight = 0.018844
+Iteration: 116, t = 0.308592, CoM_x = -0.000668,  CoM_xp = 0.021641
+Foot hight = 0.017863
+Iteration: 122, t = 0.322050, CoM_x = -0.000415,  CoM_xp = 0.016150
+Foot hight = 0.016816
+Iteration: 128, t = 0.334261, CoM_x = -0.000243,  CoM_xp = 0.012201
+Foot hight = 0.015714
+Iteration: 134, t = 0.345765, CoM_x = -0.000119,  CoM_xp = 0.009374
+Foot hight = 0.014561
+Iteration: 140, t = 0.356845, CoM_x = -0.000027,  CoM_xp = 0.007462
+Foot hight = 0.013361
+Iteration: 146, t = 0.367859, CoM_x = 0.000049,  CoM_xp = 0.006340
+Foot hight = 0.012098
+Iteration: 152, t = 0.379430, CoM_x = 0.000119,  CoM_xp = 0.005997
+Foot hight = 0.010715
+Iteration: 158, t = 0.391866, CoM_x = 0.000196,  CoM_xp = 0.006592
+Foot hight = 0.009193
+Iteration: 164, t = 0.405862, CoM_x = 0.000300,  CoM_xp = 0.008490
+Foot hight = 0.007474
+Iteration: 170, t = 0.421805, CoM_x = 0.000464,  CoM_xp = 0.012308
+Foot hight = 0.005570
+Iteration: 176, t = 0.437797, CoM_x = 0.000704,  CoM_xp = 0.018031
+Foot hight = 0.003797
+Iteration: 182, t = 0.453341, CoM_x = 0.001040,  CoM_xp = 0.025587
+Foot hight = 0.002291
+Iteration: 188, t = 0.467889, CoM_x = 0.001476,  CoM_xp = 0.034689
+Foot hight = 0.001156
+Iteration: 194, t = 0.481446, CoM_x = 0.002015,  CoM_xp = 0.045292
+Foot hight = 0.000409
+Iteration: 200, t = 0.494486, CoM_x = 0.002685,  CoM_xp = 0.057903
+Foot hight = 0.000038
+Iteration: 206, t = 0.500000, CoM_x = 0.003021,  CoM_xp = 0.064097
+Foot hight = 0.000000
+Step 1 of 3
+Initial ZMP position in X: 0.000
+Final ZMP position in X: 0.000
+Initial states: [x0 xp0] = [0.019064,0.161827]
+Final states: [xf xpf] = [0.003021,0.064097]
+-------------------------------------------
+The linear velocity of the free foot before impact is:
+ xp = 0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 3.828951e-12
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 4.328761e-17 
+Iteration: 2, t = 0.000000, CoM_x = -0.046979,  CoM_xp = 0.064097
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.046915,  CoM_xp = 0.062299
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.046627,  CoM_xp = 0.053178
+Foot hight = 0.000045
+Iteration: 20, t = 0.016754, CoM_x = -0.046163,  CoM_xp = 0.032853
+Foot hight = 0.000336
+Iteration: 26, t = 0.027426, CoM_x = -0.045924,  CoM_xp = 0.011758
+Foot hight = 0.000860
+Iteration: 32, t = 0.037274, CoM_x = -0.045908,  CoM_xp = -0.008555
+Foot hight = 0.001523
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OptionDesiredTrajectory', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Modifiable programs\Polynoms\OptionDesiredTrajectory.m', 41)" style="font-weight:bold">OptionDesiredTrajectory</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Modifiable programs\Polynoms\OptionDesiredTrajectory.m',41,0)">line 41</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Desired_qfpp_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\Desired_qfpp_HZDtime.m', 29)" style="font-weight:bold">Desired_qfpp_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\Desired_qfpp_HZDtime.m',29,0)">line 29</a>)
+OptionDesiredTrajectory;
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dynam_HZDtime', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\dynam_HZDtime.m', 68)" style="font-weight:bold">dynam_HZDtime</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\Dynamic model\dynam_HZDtime.m',68,0)">line 68</a>)
+    [qfpp, ~, ~, ~, ~, ~] = Desired_qfpp_HZDtime(ZMPd,robot,[qf;qfp],gait_parameters,t);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45', 'C:\Program Files\MATLAB\R2017b\toolbox\matlab\funfun\ode45.m', 261)" style="font-weight:bold">ode45</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017b\toolbox\matlab\funfun\ode45.m',261,0)">line 261</a>)
+    f(:,2) = feval(odeFcn,t+hA(1),y+f*hB(:,1),odeArgs{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m', 98)" style="font-weight:bold">robot_step_EssModel_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_t.m',98,0)">line 98</a>)
+[t,Xt] = ode45(@dynam_HZDtime,0:1e-3:T,X0,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('robot_step_EssModel_Start_DS_SS_DS_gait_t', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m', 111)" style="font-weight:bold">robot_step_EssModel_Start_DS_SS_DS_gait_t</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\- Fixed files\robot_step_EssModel_Start_DS_SS_DS_gait_t.m',111,0)">line 111</a>)
+    [t{j},X0,Xt{j}] = robot_step_EssModel_t(X_final); % "robot" and "gait_parameters"
+    structures are needed inside
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M02_Ess_Model_t_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m', 139)" style="font-weight:bold">M02_Ess_Model_t_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M02_Ess_Model_t_Start_Periodic_Stop.m',139,0)">line 139</a>)
+    robot_step_EssModel_Start_DS_SS_DS_gait_t(gait_parameters_SS,gait_parameters_DS,gait_parameters_DS_final,gait_parameters_gait_SS,Nstep);} 
+M10_Ess_Model_t_Find_FixPoint_Periodic_Walking
+Paths for Biped files and "Input data" folder were added =)
+
+% Programa que ejecuta la simulacion de la fase inicial y caminado de n
+% pasos
+echo off
+All masses distributed (as it should be), i.e. alphaM = 1.000000
+DS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = 0.000000,  CoM_xp = 0.000000
+Foot hight = 0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.000000,  CoM_xp = -0.000070
+Foot hight = -0.000000
+Iteration: 14, t = 0.006000, CoM_x = -0.000001,  CoM_xp = -0.000420
+Foot hight = 0.000000
+Iteration: 20, t = 0.024135, CoM_x = -0.000020,  CoM_xp = -0.001700
+Foot hight = 0.000000
+Iteration: 26, t = 0.042260, CoM_x = -0.000063,  CoM_xp = -0.003008
+Foot hight = 0.000000
+Iteration: 32, t = 0.060356, CoM_x = -0.000130,  CoM_xp = -0.004369
+Foot hight = 0.000000
+Iteration: 38, t = 0.078360, CoM_x = -0.000221,  CoM_xp = -0.005799
+Foot hight = 0.000000
+Iteration: 44, t = 0.096212, CoM_x = -0.000338,  CoM_xp = -0.007319
+Foot hight = -0.000000
+Iteration: 50, t = 0.113860, CoM_x = -0.000481,  CoM_xp = -0.008946
+Foot hight = -0.000000
+Iteration: 56, t = 0.131259, CoM_x = -0.000652,  CoM_xp = -0.010699
+Foot hight = -0.000000
+Iteration: 62, t = 0.148607, CoM_x = -0.000854,  CoM_xp = -0.012624
+Foot hight = 0.000000
+Iteration: 68, t = 0.166215, CoM_x = -0.001095,  CoM_xp = -0.014792
+Foot hight = 0.000000
+Iteration: 74, t = 0.184035, CoM_x = -0.001380,  CoM_xp = -0.017244
+Foot hight = 0.000000
+Iteration: 80, t = 0.200000, CoM_x = -0.001675,  CoM_xp = -0.019696
+Foot hight = -0.000000
+SS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = -0.001675,  CoM_xp = -0.019696
+Foot hight = -0.000000
+Iteration: 8, t = 0.000765, CoM_x = -0.001689,  CoM_xp = -0.019072
+Foot hight = 0.000001
+Iteration: 14, t = 0.004588, CoM_x = -0.001757,  CoM_xp = -0.016043
+Foot hight = 0.000026
+Iteration: 20, t = 0.016952, CoM_x = -0.001899,  CoM_xp = -0.007208
+Foot hight = 0.000343
+Iteration: 26, t = 0.028631, CoM_x = -0.001940,  CoM_xp = -0.000045
+Foot hight = 0.000933
+Iteration: 32, t = 0.039448, CoM_x = -0.001909,  CoM_xp = 0.005715
+Foot hight = 0.001690
+Iteration: 38, t = 0.050471, CoM_x = -0.001817,  CoM_xp = 0.010830
+Foot hight = 0.002636
+Iteration: 44, t = 0.061868, CoM_x = -0.001667,  CoM_xp = 0.015407
+Foot hight = 0.003762
+Iteration: 50, t = 0.074351, CoM_x = -0.001447,  CoM_xp = 0.019669
+Foot hight = 0.005128
+Iteration: 56, t = 0.087794, CoM_x = -0.001156,  CoM_xp = 0.023447
+Foot hight = 0.006705
+Iteration: 62, t = 0.102256, CoM_x = -0.000793,  CoM_xp = 0.026608
+Foot hight = 0.008469
+Iteration: 68, t = 0.118039, CoM_x = -0.000353,  CoM_xp = 0.028983
+Foot hight = 0.010408
+Iteration: 74, t = 0.134532, CoM_x = 0.000137,  CoM_xp = 0.030210
+Foot hight = 0.012377
+Iteration: 80, t = 0.151625, CoM_x = 0.000654,  CoM_xp = 0.030040
+Foot hight = 0.014286
+Iteration: 86, t = 0.169811, CoM_x = 0.001186,  CoM_xp = 0.028179
+Foot hight = 0.016096
+Iteration: 92, t = 0.187130, CoM_x = 0.001647,  CoM_xp = 0.024837
+Foot hight = 0.017550
+Iteration: 98, t = 0.204462, CoM_x = 0.002039,  CoM_xp = 0.020152
+Foot hight = 0.018695
+Iteration: 104, t = 0.222813, CoM_x = 0.002355,  CoM_xp = 0.014120
+Foot hight = 0.019530
+Iteration: 110, t = 0.242518, CoM_x = 0.002563,  CoM_xp = 0.007016
+Foot hight = 0.019964
+Iteration: 116, t = 0.260776, CoM_x = 0.002631,  CoM_xp = 0.000452
+Foot hight = 0.019926
+Iteration: 122, t = 0.275459, CoM_x = 0.002601,  CoM_xp = -0.004467
+Foot hight = 0.019587
+Iteration: 128, t = 0.288554, CoM_x = 0.002516,  CoM_xp = -0.008402
+Foot hight = 0.019060
+Iteration: 134, t = 0.300854, CoM_x = 0.002393,  CoM_xp = -0.011608
+Foot hight = 0.018379
+Iteration: 140, t = 0.313088, CoM_x = 0.002234,  CoM_xp = -0.014258
+Foot hight = 0.017534
+Iteration: 146, t = 0.325627, CoM_x = 0.002041,  CoM_xp = -0.016367
+Foot hight = 0.016507
+Iteration: 152, t = 0.338501, CoM_x = 0.001820,  CoM_xp = -0.017850
+Foot hight = 0.015301
+Iteration: 158, t = 0.351794, CoM_x = 0.001577,  CoM_xp = -0.018614
+Foot hight = 0.013918
+Iteration: 164, t = 0.365651, CoM_x = 0.001318,  CoM_xp = -0.018534
+Foot hight = 0.012356
+Iteration: 170, t = 0.380354, CoM_x = 0.001053,  CoM_xp = -0.017402
+Foot hight = 0.010603
+Iteration: 176, t = 0.396691, CoM_x = 0.000788,  CoM_xp = -0.014768
+Foot hight = 0.008599
+Iteration: 182, t = 0.412956, CoM_x = 0.000580,  CoM_xp = -0.010556
+Foot hight = 0.006615
+Iteration: 188, t = 0.429116, CoM_x = 0.000455,  CoM_xp = -0.004613
+Foot hight = 0.004737
+Iteration: 194, t = 0.444309, CoM_x = 0.000438,  CoM_xp = 0.002778
+Foot hight = 0.003135
+Iteration: 200, t = 0.459487, CoM_x = 0.000549,  CoM_xp = 0.012164
+Foot hight = 0.001774
+Iteration: 206, t = 0.473785, CoM_x = 0.000799,  CoM_xp = 0.023159
+Foot hight = 0.000790
+Iteration: 212, t = 0.487295, CoM_x = 0.001195,  CoM_xp = 0.035884
+Foot hight = 0.000196
+Iteration: 218, t = 0.500000, CoM_x = 0.001740,  CoM_xp = 0.050411
+Foot hight = -0.000000
+DS phase (final)
+--------------------------
+Iteration: 219, t = 0.000000, CoM_x = 0.001740,  CoM_xp = 0.050411
+Foot hight = -0.000000
+Iteration: 225, t = 0.001000, CoM_x = 0.001791,  CoM_xp = 0.050558
+Foot hight = 0.000000
+Iteration: 231, t = 0.006000, CoM_x = 0.002045,  CoM_xp = 0.051345
+Foot hight = 0.000000
+Iteration: 237, t = 0.023674, CoM_x = 0.002982,  CoM_xp = 0.054781
+Foot hight = -0.000000
+Iteration: 243, t = 0.041656, CoM_x = 0.004006,  CoM_xp = 0.059372
+Foot hight = 0.000000
+Iteration: 249, t = 0.059269, CoM_x = 0.005100,  CoM_xp = 0.065012
+Foot hight = 0.000000
+Iteration: 255, t = 0.076618, CoM_x = 0.006285,  CoM_xp = 0.071760
+Foot hight = 0.000000
+Iteration: 261, t = 0.093803, CoM_x = 0.007584,  CoM_xp = 0.079704
+Foot hight = 0.000000
+Iteration: 267, t = 0.110891, CoM_x = 0.009023,  CoM_xp = 0.088944
+Foot hight = -0.000000
+Iteration: 273, t = 0.127929, CoM_x = 0.010627,  CoM_xp = 0.099583
+Foot hight = -0.000000
+Iteration: 279, t = 0.144955, CoM_x = 0.012424,  CoM_xp = 0.111722
+Foot hight = 0.000000
+Iteration: 285, t = 0.162005, CoM_x = 0.014443,  CoM_xp = 0.125440
+Foot hight = 0.000000
+Iteration: 291, t = 0.179129, CoM_x = 0.016721,  CoM_xp = 0.140796
+Foot hight = -0.000000
+Iteration: 297, t = 0.196416, CoM_x = 0.019300,  CoM_xp = 0.157817
+Foot hight = 0.000000
+Iteration: 303, t = 0.200000, CoM_x = 0.019872,  CoM_xp = 0.161521
+Foot hight = 0.000000
+Gait phase
+--------------------------
+The linear velocity of the free foot before impact is:
+ xp = 0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 1.577904e-14
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 4.440892e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.030128,  CoM_xp = 0.161521
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.029967,  CoM_xp = 0.161181
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029165,  CoM_xp = 0.159410
+Foot hight = 0.000045
+Iteration: 20, t = 0.022427, CoM_x = -0.026598,  CoM_xp = 0.153013
+Foot hight = 0.000587
+Iteration: 26, t = 0.039827, CoM_x = -0.023998,  CoM_xp = 0.145829
+Foot hight = 0.001720
+Iteration: 32, t = 0.059273, CoM_x = -0.021239,  CoM_xp = 0.137975
+Foot hight = 0.003494
+Iteration: 38, t = 0.080716, CoM_x = -0.018367,  CoM_xp = 0.130117
+Foot hight = 0.005864
+Iteration: 44, t = 0.103280, CoM_x = -0.015512,  CoM_xp = 0.123181
+Foot hight = 0.008595
+Iteration: 50, t = 0.126277, CoM_x = -0.012746,  CoM_xp = 0.117636
+Foot hight = 0.011403
+Iteration: 56, t = 0.147916, CoM_x = -0.010247,  CoM_xp = 0.113487
+Foot hight = 0.013887
+Iteration: 62, t = 0.166899, CoM_x = -0.008125,  CoM_xp = 0.110045
+Foot hight = 0.015824
+Iteration: 68, t = 0.183754, CoM_x = -0.006299,  CoM_xp = 0.106453
+Foot hight = 0.017290
+Iteration: 74, t = 0.199542, CoM_x = -0.004651,  CoM_xp = 0.102091
+Foot hight = 0.018404
+Iteration: 80, t = 0.215399, CoM_x = -0.003075,  CoM_xp = 0.096446
+Foot hight = 0.019241
+Iteration: 86, t = 0.230523, CoM_x = -0.001665,  CoM_xp = 0.089947
+Foot hight = 0.019758
+Iteration: 92, t = 0.246586, CoM_x = -0.000281,  CoM_xp = 0.082288
+Foot hight = 0.019993
+Iteration: 98, t = 0.265211, CoM_x = 0.001168,  CoM_xp = 0.073346
+Foot hight = 0.019852
+Iteration: 104, t = 0.283410, CoM_x = 0.002430,  CoM_xp = 0.065563
+Foot hight = 0.019292
+Iteration: 110, t = 0.301078, CoM_x = 0.003533,  CoM_xp = 0.059674
+Foot hight = 0.018365
+Iteration: 116, t = 0.322077, CoM_x = 0.004736,  CoM_xp = 0.055405
+Foot hight = 0.016813
+Iteration: 122, t = 0.340626, CoM_x = 0.005750,  CoM_xp = 0.054333
+Foot hight = 0.015089
+Iteration: 128, t = 0.358069, CoM_x = 0.006706,  CoM_xp = 0.055683
+Foot hight = 0.013224
+Iteration: 134, t = 0.374553, CoM_x = 0.007649,  CoM_xp = 0.059059
+Foot hight = 0.011304
+Iteration: 140, t = 0.390745, CoM_x = 0.008646,  CoM_xp = 0.064369
+Foot hight = 0.009331
+Iteration: 146, t = 0.406876, CoM_x = 0.009740,  CoM_xp = 0.071661
+Foot hight = 0.007351
+Iteration: 152, t = 0.422967, CoM_x = 0.010966,  CoM_xp = 0.081011
+Foot hight = 0.005435
+Iteration: 158, t = 0.439208, CoM_x = 0.012373,  CoM_xp = 0.092691
+Foot hight = 0.003650
+Iteration: 164, t = 0.455578, CoM_x = 0.014003,  CoM_xp = 0.106978
+Foot hight = 0.002097
+Iteration: 170, t = 0.472195, CoM_x = 0.015922,  CoM_xp = 0.124416
+Foot hight = 0.000883
+Iteration: 176, t = 0.487901, CoM_x = 0.018026,  CoM_xp = 0.144040
+Foot hight = 0.000178
+Iteration: 182, t = 0.500000, CoM_x = 0.019872,  CoM_xp = 0.161521
+Foot hight = 0.000000
+Step 1 of 3
+Initial ZMP position in X: 0.000
+Final ZMP position in X: 0.000
+Initial states: [x0 xp0] = [0.019872,0.161521]
+Final states: [xf xpf] = [0.019872,0.161521]
+-------------------------------------------
+The linear velocity of the free foot before impact is:
+ xp = -0.000000 
+ zp = 0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 1.665335e-16
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 4.440892e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.030128,  CoM_xp = 0.161521
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.029967,  CoM_xp = 0.161181
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029165,  CoM_xp = 0.159410
+Foot hight = 0.000045
+Iteration: 20, t = 0.022427, CoM_x = -0.026598,  CoM_xp = 0.153013
+Foot hight = 0.000587
+Iteration: 26, t = 0.039827, CoM_x = -0.023998,  CoM_xp = 0.145829
+Foot hight = 0.001720
+Iteration: 32, t = 0.059273, CoM_x = -0.021239,  CoM_xp = 0.137975
+Foot hight = 0.003494
+Iteration: 38, t = 0.080716, CoM_x = -0.018367,  CoM_xp = 0.130117
+Foot hight = 0.005864
+Iteration: 44, t = 0.103280, CoM_x = -0.015512,  CoM_xp = 0.123181
+Foot hight = 0.008595
+Iteration: 50, t = 0.126277, CoM_x = -0.012746,  CoM_xp = 0.117637
+Foot hight = 0.011403
+Iteration: 56, t = 0.147916, CoM_x = -0.010247,  CoM_xp = 0.113487
+Foot hight = 0.013887
+Iteration: 62, t = 0.166899, CoM_x = -0.008125,  CoM_xp = 0.110045
+Foot hight = 0.015824
+Iteration: 68, t = 0.183754, CoM_x = -0.006299,  CoM_xp = 0.106453
+Foot hight = 0.017290
+Iteration: 74, t = 0.199542, CoM_x = -0.004651,  CoM_xp = 0.102091
+Foot hight = 0.018404
+Iteration: 80, t = 0.215399, CoM_x = -0.003075,  CoM_xp = 0.096446
+Foot hight = 0.019241
+Iteration: 86, t = 0.230523, CoM_x = -0.001665,  CoM_xp = 0.089947
+Foot hight = 0.019758
+Iteration: 92, t = 0.246586, CoM_x = -0.000281,  CoM_xp = 0.082288
+Foot hight = 0.019993
+Iteration: 98, t = 0.265211, CoM_x = 0.001168,  CoM_xp = 0.073346
+Foot hight = 0.019852
+Iteration: 104, t = 0.283410, CoM_x = 0.002430,  CoM_xp = 0.065563
+Foot hight = 0.019292
+Iteration: 110, t = 0.301078, CoM_x = 0.003533,  CoM_xp = 0.059674
+Foot hight = 0.018365
+Iteration: 116, t = 0.322077, CoM_x = 0.004736,  CoM_xp = 0.055405
+Foot hight = 0.016813
+Iteration: 122, t = 0.340626, CoM_x = 0.005750,  CoM_xp = 0.054333
+Foot hight = 0.015089
+Iteration: 128, t = 0.358069, CoM_x = 0.006706,  CoM_xp = 0.055683
+Foot hight = 0.013224
+Iteration: 134, t = 0.374553, CoM_x = 0.007649,  CoM_xp = 0.059059
+Foot hight = 0.011304
+Iteration: 140, t = 0.390745, CoM_x = 0.008646,  CoM_xp = 0.064369
+Foot hight = 0.009331
+Iteration: 146, t = 0.406876, CoM_x = 0.009740,  CoM_xp = 0.071661
+Foot hight = 0.007351
+Iteration: 152, t = 0.422967, CoM_x = 0.010966,  CoM_xp = 0.081011
+Foot hight = 0.005435
+Iteration: 158, t = 0.439208, CoM_x = 0.012373,  CoM_xp = 0.092691
+Foot hight = 0.003650
+Iteration: 164, t = 0.455578, CoM_x = 0.014003,  CoM_xp = 0.106978
+Foot hight = 0.002097
+Iteration: 170, t = 0.472195, CoM_x = 0.015922,  CoM_xp = 0.124416
+Foot hight = 0.000883
+Iteration: 176, t = 0.487901, CoM_x = 0.018026,  CoM_xp = 0.144040
+Foot hight = 0.000178
+Iteration: 182, t = 0.500000, CoM_x = 0.019872,  CoM_xp = 0.161521
+Foot hight = -0.000000
+Step 2 of 3
+Initial ZMP position in X: 0.050
+Final ZMP position in X: 0.050
+Initial states: [x0 xp0] = [0.019872,0.161521]
+Final states: [xf xpf] = [0.019872,0.161521]
+-------------------------------------------
+The linear velocity of the free foot before impact is:
+ xp = 0.000000 
+ zp = -0.000000 
+No impact is produced as expected =)
+After impact max(|Q(q)+ - Q_d(Phi)+|) = 1.110223e-16
+After impact max(|Qp(q,qp)+ - Qp_d(Phi,Phip)+|) = 2.220446e-16 
+Iteration: 2, t = 0.000000, CoM_x = -0.030128,  CoM_xp = 0.161521
+Foot hight = 0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.029967,  CoM_xp = 0.161181
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029165,  CoM_xp = 0.159410
+Foot hight = 0.000045
+Iteration: 20, t = 0.022427, CoM_x = -0.026598,  CoM_xp = 0.153013
+Foot hight = 0.000587
+Iteration: 26, t = 0.039827, CoM_x = -0.023998,  CoM_xp = 0.145829
+Foot hight = 0.001720
+Iteration: 32, t = 0.059273, CoM_x = -0.021239,  CoM_xp = 0.137975
+Foot hight = 0.003494
+Iteration: 38, t = 0.080716, CoM_x = -0.018367,  CoM_xp = 0.130117
+Foot hight = 0.005864
+Iteration: 44, t = 0.103280, CoM_x = -0.015512,  CoM_xp = 0.123181
+Foot hight = 0.008595
+Iteration: 50, t = 0.126277, CoM_x = -0.012746,  CoM_xp = 0.117637
+Foot hight = 0.011403
+Iteration: 56, t = 0.147916, CoM_x = -0.010247,  CoM_xp = 0.113487
+Foot hight = 0.013887
+Iteration: 62, t = 0.166899, CoM_x = -0.008125,  CoM_xp = 0.110045
+Foot hight = 0.015824
+Iteration: 68, t = 0.183754, CoM_x = -0.006299,  CoM_xp = 0.106453
+Foot hight = 0.017290
+Iteration: 74, t = 0.199542, CoM_x = -0.004651,  CoM_xp = 0.102091
+Foot hight = 0.018404
+Iteration: 80, t = 0.215399, CoM_x = -0.003075,  CoM_xp = 0.096446
+Foot hight = 0.019241
+Iteration: 86, t = 0.230523, CoM_x = -0.001665,  CoM_xp = 0.089947
+Foot hight = 0.019758
+Iteration: 92, t = 0.246586, CoM_x = -0.000281,  CoM_xp = 0.082288
+Foot hight = 0.019993
+Iteration: 98, t = 0.265211, CoM_x = 0.001168,  CoM_xp = 0.073346
+Foot hight = 0.019852
+Iteration: 104, t = 0.283410, CoM_x = 0.002430,  CoM_xp = 0.065563
+Foot hight = 0.019292
+Iteration: 110, t = 0.301078, CoM_x = 0.003533,  CoM_xp = 0.059674
+Foot hight = 0.018365
+Iteration: 116, t = 0.322077, CoM_x = 0.004736,  CoM_xp = 0.055405
+Foot hight = 0.016813
+Iteration: 122, t = 0.340626, CoM_x = 0.005750,  CoM_xp = 0.054333
+Foot hight = 0.015089
+Iteration: 128, t = 0.358069, CoM_x = 0.006706,  CoM_xp = 0.055684
+Foot hight = 0.013224
+Iteration: 134, t = 0.374553, CoM_x = 0.007649,  CoM_xp = 0.059059
+Foot hight = 0.011304
+Iteration: 140, t = 0.390746, CoM_x = 0.008646,  CoM_xp = 0.064369
+Foot hight = 0.009331
+Iteration: 146, t = 0.406876, CoM_x = 0.009740,  CoM_xp = 0.071661
+Foot hight = 0.007351
+Iteration: 152, t = 0.422967, CoM_x = 0.010966,  CoM_xp = 0.081011
+Foot hight = 0.005435
+Iteration: 158, t = 0.439208, CoM_x = 0.012373,  CoM_xp = 0.092692
+Foot hight = 0.003650
+Iteration: 164, t = 0.455578, CoM_x = 0.014004,  CoM_xp = 0.106979
+Foot hight = 0.002097
+Iteration: 170, t = 0.472195, CoM_x = 0.015922,  CoM_xp = 0.124416
+Foot hight = 0.000883
+Iteration: 176, t = 0.487901, CoM_x = 0.018026,  CoM_xp = 0.144041
+Foot hight = 0.000178
+Iteration: 182, t = 0.500000, CoM_x = 0.019872,  CoM_xp = 0.161521
+Foot hight = -0.000000
+Step 3 of 3
+Initial ZMP position in X: 0.100
+Final ZMP position in X: 0.100
+Initial states: [x0 xp0] = [0.019872,0.161521]
+Final states: [xf xpf] = [0.019872,0.161521]
+-------------------------------------------
+SS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = -0.030128,  CoM_xp = 0.161521
+Foot hight = 0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.029967,  CoM_xp = 0.160900
+Foot hight = 0.000001
+Iteration: 14, t = 0.006000, CoM_x = -0.029170,  CoM_xp = 0.157766
+Foot hight = 0.000045
+Iteration: 20, t = 0.022338, CoM_x = -0.026677,  CoM_xp = 0.147403
+Foot hight = 0.000583
+Iteration: 26, t = 0.040096, CoM_x = -0.024158,  CoM_xp = 0.136368
+Foot hight = 0.001741
+Iteration: 32, t = 0.058750, CoM_x = -0.021718,  CoM_xp = 0.125454
+Foot hight = 0.003441
+Iteration: 38, t = 0.077986, CoM_x = -0.019405,  CoM_xp = 0.115181
+Foot hight = 0.005546
+Iteration: 44, t = 0.097514, CoM_x = -0.017248,  CoM_xp = 0.105879
+Foot hight = 0.007887
+Iteration: 50, t = 0.117070, CoM_x = -0.015260,  CoM_xp = 0.097680
+Foot hight = 0.010290
+Iteration: 56, t = 0.136399, CoM_x = -0.013442,  CoM_xp = 0.090539
+Foot hight = 0.012593
+Iteration: 62, t = 0.155258, CoM_x = -0.011795,  CoM_xp = 0.084256
+Foot hight = 0.014668
+Iteration: 68, t = 0.173477, CoM_x = -0.010312,  CoM_xp = 0.078526
+Foot hight = 0.016428
+Iteration: 74, t = 0.191024, CoM_x = -0.008982,  CoM_xp = 0.072992
+Foot hight = 0.017836
+Iteration: 80, t = 0.208050, CoM_x = -0.007787,  CoM_xp = 0.067312
+Foot hight = 0.018890
+Iteration: 86, t = 0.224898, CoM_x = -0.006704,  CoM_xp = 0.061172
+Foot hight = 0.019599
+Iteration: 92, t = 0.242172, CoM_x = -0.005706,  CoM_xp = 0.054258
+Foot hight = 0.019961
+Iteration: 98, t = 0.260464, CoM_x = -0.004785,  CoM_xp = 0.046374
+Foot hight = 0.019930
+Iteration: 104, t = 0.280157, CoM_x = -0.003958,  CoM_xp = 0.037637
+Foot hight = 0.019422
+Iteration: 110, t = 0.303045, CoM_x = -0.003210,  CoM_xp = 0.027918
+Foot hight = 0.018240
+Iteration: 116, t = 0.325158, CoM_x = -0.002686,  CoM_xp = 0.019722
+Foot hight = 0.016548
+Iteration: 128, t = 0.341881, CoM_x = -0.002400,  CoM_xp = 0.014608
+Foot hight = 0.014962
+Iteration: 134, t = 0.358603, CoM_x = -0.002191,  CoM_xp = 0.010526
+Foot hight = 0.013164
+Iteration: 140, t = 0.373949, CoM_x = -0.002053,  CoM_xp = 0.007694
+Foot hight = 0.011376
+Iteration: 146, t = 0.388390, CoM_x = -0.001956,  CoM_xp = 0.005804
+Foot hight = 0.009621
+Iteration: 152, t = 0.403198, CoM_x = -0.001880,  CoM_xp = 0.004614
+Foot hight = 0.007800
+Iteration: 158, t = 0.418943, CoM_x = -0.001812,  CoM_xp = 0.004154
+Foot hight = 0.005904
+Iteration: 164, t = 0.436465, CoM_x = -0.001737,  CoM_xp = 0.004608
+Foot hight = 0.003937
+Iteration: 170, t = 0.454582, CoM_x = -0.001640,  CoM_xp = 0.006189
+Foot hight = 0.002183
+Iteration: 176, t = 0.472360, CoM_x = -0.001508,  CoM_xp = 0.008949
+Foot hight = 0.000873
+Iteration: 182, t = 0.488684, CoM_x = -0.001333,  CoM_xp = 0.012706
+Foot hight = 0.000157
+Iteration: 188, t = 0.500000, CoM_x = -0.001170,  CoM_xp = 0.016126
+Foot hight = -0.000000
+DS phase
+--------------------------
+Iteration: 2, t = 0.000000, CoM_x = -0.001170,  CoM_xp = 0.016126
+Foot hight = -0.000000
+Iteration: 8, t = 0.001000, CoM_x = -0.001154,  CoM_xp = 0.015962
+Foot hight = 0.000000
+Iteration: 14, t = 0.006000, CoM_x = -0.001077,  CoM_xp = 0.015165
+Foot hight = 0.000000
+Iteration: 20, t = 0.022753, CoM_x = -0.000844,  CoM_xp = 0.012708
+Foot hight = 0.000000
+Iteration: 26, t = 0.039349, CoM_x = -0.000651,  CoM_xp = 0.010571
+Foot hight = -0.000000
+Iteration: 32, t = 0.055805, CoM_x = -0.000492,  CoM_xp = 0.008709
+Foot hight = 0.000000
+Iteration: 38, t = 0.072097, CoM_x = -0.000364,  CoM_xp = 0.007092
+Foot hight = 0.000000
+Iteration: 44, t = 0.088645, CoM_x = -0.000259,  CoM_xp = 0.005655
+Foot hight = 0.000000
+Iteration: 50, t = 0.105637, CoM_x = -0.000174,  CoM_xp = 0.004372
+Foot hight = 0.000000
+Iteration: 56, t = 0.123098, CoM_x = -0.000108,  CoM_xp = 0.003235
+Foot hight = 0.000000
+Iteration: 62, t = 0.141065, CoM_x = -0.000059,  CoM_xp = 0.002238
+Foot hight = 0.000000
+Iteration: 68, t = 0.159584, CoM_x = -0.000026,  CoM_xp = 0.001375
+Foot hight = 0.000000
+Iteration: 74, t = 0.178716, CoM_x = -0.000007,  CoM_xp = 0.000643
+Foot hight = 0.000000
+Iteration: 80, t = 0.200000, CoM_x = 0.000000,  CoM_xp = 0.000000
+Foot hight = 0.000000
+Making a video...
+Video produced successfully
+------------------------------
+Saving data as: InfBiped_Param01_Start_Gait_SS_Stop
+------------------------------
+Paths for Biped files and "Input data" folder were removed =(
+M22_JointsTorquesForcesZMPcomputation_Start_Periodic_Stop
+Paths for Biped files and "Input data" folder were added =)
+% Computing of joint trajectories positions velocities and accelerations  based on the CoM trajectory (Position and velocity)
+% Also, computing reaction moment and force on the support foot, joint torques and ZMP.
+% ==============================================================================================
+% Creation: 05/03/2021
+% Last modification: -/-/-
+% --------------------------------------------------------------------------------------------------
+% This file load the CoM trajectory, gait information and others parameters to compute the Reaction
+% moment and force of the ground, joint torques and ZMP produced.
+% IN HERE the evolution of the ZMP COULD be OUTSIDE of the sole, all deppends of the CoM trajectory in position and
+% velocity and the motion given to the free foot.
+% --------------------------------------------------------------------------------------------------
+%
+%
+echo off
+11:24:55 -> Reading data
+All masses distributed (as it should be), i.e. alphaM = 1.000000
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('load')" style="font-weight:bold">load</a>
+'InfBiped_StartingPhase_Gait_SS_StoppingPhase' is not found in the current folder or on the
+MATLAB path, but exists in:
+    C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo planar 1.2\Main codes
+    C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo planar 1.1\Main codes
+
+Change the MATLAB current folder or add its folder to the MATLAB path.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('M22_JointsTorquesForcesZMPcomputation_Start_Periodic_Stop', 'C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M22_JointsTorquesForcesZMPcomputation_Start_Periodic_Stop.m', 62)" style="font-weight:bold">M22_JointsTorquesForcesZMPcomputation_Start_Periodic_Stop</a> (<a href="matlab: opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M22_JointsTorquesForcesZMPcomputation_Start_Periodic_Stop.m',62,0)">line 62</a>)
+load(DataName);
+} 
+opentoline('C:\Users\emanu\Documents\MATLAB\Nao y Romeo\Bipedo github\Bipedo 2D 1.2\Bipedo 2D\Main codes\M22_JointsTorquesForcesZMPcomputation_Start_Periodic_Stop.m',62,0)
+M22_JointsTorquesForcesZMPcomputation_Start_Periodic_Stop
+Paths for Biped files and "Input data" folder were added =)
+% Computing of joint trajectories positions velocities and accelerations  based on the CoM trajectory (Position and velocity)
+% Also, computing reaction moment and force on the support foot, joint torques and ZMP.
+% ==============================================================================================
+% Creation: 05/03/2021
+% Last modification: -/-/-
+% --------------------------------------------------------------------------------------------------
+% This file load the CoM trajectory, gait information and others parameters to compute the Reaction
+% moment and force of the ground, joint torques and ZMP produced.
+% IN HERE the evolution of the ZMP COULD be OUTSIDE of the sole, all deppends of the CoM trajectory in position and
+% velocity and the motion given to the free foot.
+% --------------------------------------------------------------------------------------------------
+%
+%
+echo off
+11:25:13 -> Reading data
+All masses distributed (as it should be), i.e. alphaM = 1.000000
+DS Starting PhaseElapsed time: 00:00:00
+11:25:13 -> Computing joint positions velocities and acceleration of the DS Starting phase based on the CoM position and velocity
+SS Starting PhaseElapsed time: 00:00:02
+11:25:15 -> Computing joint positions velocities and acceleration of the DS Starting phase based on the CoM position and velocity
+DS_final Starting PhaseElapsed time: 00:00:05
+11:25:20 -> Computing joint positions velocities and acceleration of the DS_final Starting phase based on the CoM position and velocity
+Elapsed time: 00:00:03
+11:25:23 -> Computation of global reaction mmoment and force, ZMP and torques based on "q", "qp" and "qpp" in DS Starting phase ...
+Step 1 out of 3 
+Elapsed time: 00:00:01
+11:25:24 -> Computing joint positions velocities and acceleration of the SS phase based on the CoM position and velocity
+Elapsed time: 00:00:05
+11:25:29 -> Computation of global reaction mmoment and force, 

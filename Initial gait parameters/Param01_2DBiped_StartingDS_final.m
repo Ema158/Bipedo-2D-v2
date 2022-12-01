@@ -1,4 +1,4 @@
-function   Biped_param = SS_bipedo_StartingDS_final()
+function   Biped_param = Param01_2DBiped_StartingDS_final()
 
 % Parameters for a walking gait base on TIME:
 %% Gait parameters 
@@ -7,10 +7,9 @@ T = 0.2;         % Time step
 S = 0.05;         % Step length 0.1
 a_z = 0;      % Maximum amplitude oscillation of the CoM
 H_ffoot = 0;  % Foot maximum hight 
-% v_foot_f = -0.1; % Final landing velocity of the free foot;
 v_foot_f = 0; % Final landing velocity of the free foot;
 
-z0 = 0.10;       % hight of the CoM 0.27
+z0 = 0.105;       % hight of the CoM 
 g = 9.81;        % acceleration of gravity
 % --------------
 % Torso
@@ -26,12 +25,10 @@ T_midCoMz=T/2;
 % For making the evolution of the ZMP symmetric
 T1 = 0; % This two times are used to build the trajectory of the ZMP and are used in "dynm_HZD.m" 
 T2 = T; % So the trayectory will be fixed from 0 to T1, then the motion will be from T1 to T2 and then fixed from T2 to T 
-ZMPxIni =  -0.001606831277359;      % Local position of the desired ZMP in X for each step
+ZMPxIni =  -0.000817207039046609;      % Local position of the desired ZMP in X for each step
 ZMPxEnd =  0;
 Pos = [T1 ZMPxIni;       
        T2 ZMPxEnd];
-% Vel = [T1 0
-%        T2 0];
 Vel = [];
 Acc = [];
 ZMPxCoeff = findPolyCoeff(Pos,Vel,Acc);
@@ -75,7 +72,7 @@ OptionContVar = 1;
 % -------------------------------------------------------------------------------------------------
 %% Cyclic motion (Dx,xpf) and optimized parameters
 % Rcyc = [0.004788336495620,-0.006235222545144];
-Rcyc = [-0.005935911772509,0.161826846244097];
+Rcyc = [-0.005128143990056,0.161520672522407];
 % Creating a structure for the parameters
 Biped_param.gait_parameters = gait_parameters;
 Biped_param.ControlledVariableOption = OptionContVar;

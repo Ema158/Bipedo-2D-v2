@@ -29,7 +29,7 @@ disp([Hour ' -> Reading data']);
 % -----------------------------------------------
 % Options
 % -----------------------------------------------
-DataName = 'InfBiped_StartingPhase_Gait_SS_StoppingPhase'; % File produced in "M04"
+DataName = 'InfBiped_Param01_Start_Gait_SS_Stop'; % File produced in "M04"
 
 anim = 1; % Do you want animation? 1-> yes, 0-> no
 % -------------------------------------------------------------------------------------------------
