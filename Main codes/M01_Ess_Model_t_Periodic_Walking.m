@@ -1,5 +1,5 @@
 close all;
-clear all;
+clear 
 clc
 % ---------------------------------------------------------------------------------------------
 currentfolder = pwd; % save current path
@@ -8,14 +8,13 @@ add_paths;           % add all folders where all files are founded in order to a
 cd(currentfolder);   % return to the original path
 % ---------------------------------------------------------------------------------------------
 echo on
-% Testing Essential dynamics
+% Testing Essential dynamics in a planar robot
 % ==============================
-% Creation: 20/mar/2018
+% Creation: 01/12/2022
 % Last modification: -/--/--
 % --------------------------------------------------------------------------------------------------
-% Walking of a Essential model with FIX step lenght S, Fix step width D, fix time step T  and considering IMPACT
+% Periodic Walking of a Essential model of a 2D biped robot.
 % -----------------------------------------------------------------------------------------------------
-% This code is based on "M04b_EssentialModelImpactZMPvar_t." 
 % The difference is that in here the same file for compute the Coefficients for the polyynmomials to build the desired
 % trajectories of the controlled variables is used for the desired values without impact and with impact.
 % Also a trajectory for the twist the upper torso is builded.
@@ -26,12 +25,8 @@ echo on
 %
 echo off
 
-
 global gait_parameters
 global robot 
-% coms=1;
-% robot = genebot();
-% robot_draw(robot,0,0);
 % Parameters
 % ---------------------------------------------------------
 Biped_param = SSParamComRob_ZMPx_var();
